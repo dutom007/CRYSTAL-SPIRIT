@@ -1,0 +1,371 @@
+id,attribut,valeur,ref,ean13,impactprix,impactpoids
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,LT.PERI:1",662780,9003146627804,295.9,1.3734
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,VIOLET:1",695138,9003146951381,295.9,1.4616
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,EMER:1",696436,9003146964367,295.9,1.3194
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,DK.SAPPH:1",943308,9003149433082,295.9,1.2636
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,SILK:1",5014575,9009650145759,295.9,0.9414
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,ARCWHITE:1",5284408,9009652844087,295.9,0.8406
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,CRYSTAL:1",265822,9003142658222,230.9,1.3734
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,MED.SAPPH:1",274042,9003142740422,295.9,1.377
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,LT.TOP.:1",274041,9003142740415,295.9,1.3986
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,BORDEAUX:1",274040,9003142740408,295.9,1.2816
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,ANT.GREEN:1",274039,9003142740392,295.9,1.377
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,ROSALINE:1",274043,9003142740439,295.9,1.377
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,TOP:1",627127,9003146271274,295.9,0.7632
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,BL.VIOLET:1",627121,9003146271212,295.9,1.5264
+1,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,JET:1",626064,9003146260643,295.9,1.4076
+1,"Taille:select:0, Couleur:select:1","MM 32.0 (x125):0,CRYSTAL:1",265773,9003142657737,143.9,0.95
+1,"Taille:select:0, Couleur:select:1","MM 10.0 (x3000):0,CRYSTAL:1",265809,9003142658093,437.9,0.243
+1,"Taille:select:0, Couleur:select:1","MM 12.0 (x2600):0,CRYSTAL:1",265814,9003142658147,371.9,1.0496
+1,"Taille:select:0, Couleur:select:1","MM 16.0 (x1000):0,CRYSTAL:1",265830,9003142658307,227.9,0.75
+1,"Taille:select:0, Couleur:select:1","MM 18.0 (x600):0,CRYSTAL:1",265837,9003142658376,156.9,0
+1,"Taille:select:0, Couleur:select:1","MM 20.0 (x420):0,CRYSTAL:1",265840,9003142658406,133.9,0.3
+1,"Taille:select:0, Couleur:select:1","MM 22.0 (x350):0,CRYSTAL:1",265844,9003142658444,152.9,0.3
+1,"Taille:select:0, Couleur:select:1","MM 24.0 (x300):0,CRYSTAL:1",265845,9003142658451,180.9,0.6
+1,"Taille:select:0, Couleur:select:1","MM 26.0 (x240):0,CRYSTAL:1",265938,9003142659380,169.9,0.6
+1,"Taille:select:0, Couleur:select:1","MM 28.0 (x150):0,CRYSTAL:1",265939,9003142659397,103.9,0.45
+1,"Taille:select:0, Couleur:select:1","MM 30.0 (x125):0,CRYSTAL:1",265940,9003142659403,103.9,0.575
+1,"Taille:select:0, Couleur:select:1","MM 60.0 (x20):0,CRYSTAL:1",265941,9003142659410,56.9,0.92
+1,"Taille:select:0, Couleur:select:1","MM 34.0 (x100):0,CRYSTAL:1",265942,9003142659427,133.9,0.9
+1,"Taille:select:0, Couleur:select:1","MM 36.0 (x80):0,CRYSTAL:1",265943,9003142659434,124.9,0.68
+1,"Taille:select:0, Couleur:select:1","MM 38.0 (x80):0,CRYSTAL:1",265945,9003142659458,168.9,1.08
+1,"Taille:select:0, Couleur:select:1","MM 40.0 (x56):0,CRYSTAL:1",265946,9003142659465,126.9,0.552
+1,"Taille:select:0, Couleur:select:1","MM 50.0 (x20):0,CRYSTAL:1",265947,9003142659472,0,0
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,VIOLET:1",695137,9003146951374,295.9,1.015
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,EMER:1",696435,9003146964350,295.9,0.871
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,DK.SAPPH:1",943307,9003149433075,295.9,0.8134
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,SILK:1",5039147,9009650391477,295.9,0.4858
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,ARCWHITE:1",5284407,9009652844070,295.9,0.3814
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,CRYSTAL:1",265954,9003142659540,230.9,0.925
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,ROSALINE:1",274038,9003142740385,295.9,0.9286
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,MED.SAPPH:1",274037,9003142740378,295.9,0.9286
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,LT.TOP.:1",274036,9003142740361,295.9,0.9502
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,LT.PERI:1",662779,9003146627798,295.9,0.925
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,JET:1",632236,9003146322365,295.9,0.961
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,TOP:1",627126,9003146271267,295.9,0.304
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,ANT.GREEN:1",274034,9003142740347,295.9,0.9286
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,BORDEAUX:1",274035,9003142740354,295.9,0.8314
+2,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,BL.VIOLET:1",627120,9003146271205,295.9,1.0798
+2,"Taille:select:0, Couleur:select:1","MM 60.0 (x20):0,CRYSTAL:1",265988,9003142659885,56.9,0.27
+2,"Taille:select:0, Couleur:select:1","MM 50.0 (x20):0,CRYSTAL:1",265987,9003142659878,0,-0.65
+2,"Taille:select:0, Couleur:select:1","MM 40.0 (x56):0,CRYSTAL:1",265986,9003142659861,126.9,-0.098
+2,"Taille:select:0, Couleur:select:1","MM 30.0 (x125):0,CRYSTAL:1",265984,9003142659847,103.9,-0.075
+2,"Taille:select:0, Couleur:select:1","MM 28.0 (x150):0,CRYSTAL:1",265981,9003142659816,103.9,-0.2
+2,"Taille:select:0, Couleur:select:1","MM 26.0 (x240):0,CRYSTAL:1",265977,9003142659779,169.9,0.19
+2,"Taille:select:0, Couleur:select:1","MM 24.0 (x300):0,CRYSTAL:1",265973,9003142659731,180.9,0.25
+2,"Taille:select:0, Couleur:select:1","MM 18.0 (x600):0,CRYSTAL:1",265966,9003142659663,156.9,-0.65
+2,"Taille:select:0, Couleur:select:1","MM 20.0 (x420):0,CRYSTAL:1",265970,9003142659700,133.9,-0.35
+2,"Taille:select:0, Couleur:select:1","MM 16.0 (x1000):0,CRYSTAL:1",265955,9003142659557,227.9,0.1
+2,"Taille:select:0, Couleur:select:1","MM 12.0 (x2600):0,CRYSTAL:1",265953,9003142659533,371.9,0.5088
+2,"Taille:select:0, Couleur:select:1","MM 22.0 (x350):0,CRYSTAL:1",265971,9003142659717,152.9,0
+4,"Taille:select:0, Couleur:select:1","MM 14.0 (x800):0,CRYSTAL:1",5191369,9009651913692,158.6,-0.02
+4,"Taille:select:0, Couleur:select:1","MM 40.0 (x30):0,CRYSTAL:1",5191390,9009651913906,0,-0.15
+4,"Taille:select:0, Couleur:select:1","MM 36.0 (x72):0,CRYSTAL:1",5191388,9009651913883,86.6,0.756
+4,"Taille:select:0, Couleur:select:1","MM 32.0 (x96):0,CRYSTAL:1",5191386,9009651913869,102.6,0.78
+4,"Taille:select:0, Couleur:select:1","MM 28.0 (x96):0,CRYSTAL:1",5191383,9009651913838,58.6,-0.084
+4,"Taille:select:0, Couleur:select:1","MM 24.0 (x150):0,CRYSTAL:1",5191380,9009651913807,55.6,-0.12
+4,"Taille:select:0, Couleur:select:1","MM 22.0 (x210):0,CRYSTAL:1",5191378,9009651913784,72.6,0.06
+4,"Taille:select:0, Couleur:select:1","MM 20.0 (x280):0,CRYSTAL:1",5191375,9009651913753,82.6,0.34
+4,"Taille:select:0, Couleur:select:1","MM 18.0 (x400):0,CRYSTAL:1",5191373,9009651913739,106.6,-0.02
+4,"Taille:select:0, Couleur:select:1","MM 16.0 (x540):0,CRYSTAL:1",5191371,9009651913715,120.6,0
+5,"Taille:select:0, Couleur:select:1","MM 14.0 (x800):0,CRYSTAL:1",5191392,9009651913920,103,0
+5,"Taille:select:0, Couleur:select:1","MM 20.0 (x280):0,CRYSTAL:1",5191396,9009651913968,27,0.36
+5,"Taille:select:0, Couleur:select:1","MM 22.0 (x210):0,CRYSTAL:1",5237458,9009652374584,17,0.08
+5,"Taille:select:0, Couleur:select:1","MM 24.0 (x150):0,CRYSTAL:1",5191398,9009651913982,0,-0.1
+5,"Taille:select:0, Couleur:select:1","MM 18.0 (x400):0,CRYSTAL:1",5191394,9009651913944,51,0
+6,"Taille:select:0, Couleur:select:1","MM 14.0 (x800):0,CRYSTAL:1",5191400,9009651914002,103,-0.02
+6,"Taille:select:0, Couleur:select:1","MM 24.0 (x150):0,CRYSTAL:1",5191410,9009651914101,0,0.03
+6,"Taille:select:0, Couleur:select:1","MM 22.0 (x210):0,CRYSTAL:1",5191408,9009651914088,17,0.06
+6,"Taille:select:0, Couleur:select:1","MM 20.0 (x280):0,CRYSTAL:1",5191406,9009651914064,27,0.34
+6,"Taille:select:0, Couleur:select:1","MM 18.0 (x400):0,CRYSTAL:1",5191404,9009651914040,51,-0.02
+6,"Taille:select:0, Couleur:select:1","MM 16.0 (x540):0,CRYSTAL:1",5191402,9009651914026,65,0
+7,"Taille:select:0, Couleur:select:1","MM 14.0 (x1800):0,CRYSTAL:1",265989,9003142659892,3,0.5676
+7,"Taille:select:0, Couleur:select:1","MM 16.0 (x1000):0,CRYSTAL:1",265991,9003142659915,0,0
+8,"Taille:select:0, Couleur:select:1","MM 16.0 (x1000):0,CRYSTAL:1",266000,9003142660003,0,0
+9,"Taille:select:0, Couleur:select:1","MM175.0 (x1):0,CRYSTAL:1",5256819,9009652568198,0,0
+10,"Taille:select:0, Couleur:select:1","MM 22.0 (x210):0,CRYSTAL:1",5279209,9009652792098,0,0
+11,"Taille:select:0, Couleur:select:1","MM 18.0 (x400):0,CRYSTAL:1",5279198,9009652791985,0,0
+12,"Taille:select:0, Couleur:select:1","MM 22.0 (x210):0,CRYSTAL:1",5279215,9009652792159,0,0
+13,"Taille:select:0, Couleur:select:1","MM 70.0 (x1):0,CRYSTAL:1",250851,9003142508510,0,-3.69
+13,"Taille:select:0, Couleur:select:1","MM100.0 (x1):0,CRYSTAL:1",250852,9003142508527,235.2,-2.54
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,ANT.GREEN:1",262022,9003142620229,349.2,-2.304
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,MED.SAPPH:1",262023,9003142620236,349.2,-2.304
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,ROSALINE:1",262024,9003142620243,349.2,-2.304
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,LT.TOP.:1",262025,9003142620250,349.2,-2.304
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,BORDEAUX:1",262026,9003142620267,349.2,-2.304
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,LT.PERI:1",662782,9003146627828,349.2,-2.304
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,ANT.GREEN:1",262030,9003142620304,189.2,-1.92
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,BORDEAUX:1",262031,9003142620311,189.2,-2.016
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,LT.TOP.:1",262032,9003142620328,189.2,-1.92
+13,"Taille:select:0, Couleur:select:1","MM 60.0 (x5):0,CRYSTAL:1",250850,9003142508503,77.2,-2.27
+13,"Taille:select:0, Couleur:select:1","MM 50.0 (x12):0,CRYSTAL:1",249104,9003142491041,125.2,-1.536
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,CRYSTAL:1",249103,9003142491034,241.2,0.2
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,CRYSTAL:1",249102,9003142491027,150.2,-1.968
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,CRYSTAL:1",249101,9003142491010,283.2,-2.304
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,DK.SAPPH:1",943311,9003149433112,349.2,-2.304
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,DK.SAPPH:1",943312,9003149433129,189.2,-2.016
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,LT.PERI:1",662784,9003146627842,189.2,-1.968
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,LT.PERI:1",662785,9003146627859,297.2,0.2
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,BORDEAUX:1",662792,9003146627927,297.2,0.04
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,MED.SAPPH:1",262033,9003142620335,189.2,-1.92
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,TOP:1",626059,9003146260599,297.2,-0.76
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,BL.VIOLET:1",626105,9003146261053,297.2,-0.56
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,BL.VIOLET:1",626459,9003146264597,189.2,-1.824
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,EMER:1",696438,9003146964381,189.2,-1.968
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,BL.VIOLET:1",627122,9003146271229,349.2,-2.16
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,EMER:1",696439,9003146964398,297.2,0.08
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,TOP:1",627128,9003146271281,349.2,-2.592
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,TOP:1",627134,9003146271342,189.2,-2.4
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,EMER:1",696437,9003146964374,349.2,-2.304
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,VIOLET:1",695145,9003146951459,349.2,-2.16
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,VIOLET:1",695147,9003146951473,297.2,-0.56
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,VIOLET:1",695146,9003146951466,189.2,-1.872
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,JET:1",650273,9003146502736,349.2,-2.16
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,JET:1",650274,9003146502743,189.2,-1.92
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,JET:1",650275,9003146502750,297.2,0.24
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,ROSALINE:1",262043,9003142620434,297.2,-0.52
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,MED.SAPPH:1",262042,9003142620427,297.2,-0.52
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,LT.TOP.:1",262041,9003142620410,297.2,0.2
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,ANT.GREEN:1",262040,9003142620403,297.2,-0.64
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,ROSALINE:1",262034,9003142620342,189.2,-1.92
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,SILK:1",5039155,9009650391552,297.2,-0.48
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,SILK:1",5039152,9009650391521,189.2,-2.256
+13,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,ARCWHITE:1",5284410,9009652844100,189.2,-2.352
+13,"Taille:select:0, Couleur:select:1","MM 20.0 (x144):0,SILK:1",5039150,9009650391507,349.2,-2.592
+13,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,DK.SAPPH:1",1002764,9007810027648,297.2,0
+14,"Taille:select:0, Couleur:select:1","MM 30.0 (x48):0,CRYSTAL:1",5279221,9009652792210,0,-2.168
+14,"Taille:select:0, Couleur:select:1","MM 40.0 (x40):0,CRYSTAL:1",5279222,9009652792227,104,0
+15,"Taille:select:0, Couleur:select:1","MM 50.0 (x28):0,CRYSTAL:1",159212,9003141592121,63,0.012
+15,"Taille:select:0, Couleur:select:1","MM 40.0 (x48):0,CRYSTAL:1",159211,9003141592114,20,-0.192
+15,"Taille:select:0, Couleur:select:1","MM 30.0 (x144):0,CRYSTAL:1",159054,9003141590547,0,0
+16,"Taille:select:0, Couleur:select:1","MM100.0X 20.0 (x48):0,CRYSTAL:1",159217,9003141592176,51,-0.192
+16,"Taille:select:0, Couleur:select:1","MM 50.0X 14.0 (x150):0,CRYSTAL:1",159215,9003141592152,0,-0.216
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,CRYSTAL:1",159214,9003141592145,43,0
+16,"Taille:select:0, Couleur:select:1","MM 18.0X  7.5 (x1620):0,CRYSTAL:1",159213,9003141592138,692,0.39456
+16,"Taille:select:0, Couleur:select:1","MM 63.0X 13.0 (x150):0,CRYSTAL:1",159216,9003141592169,112,-0.066
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,TOP:1",941296,9003149412964,99,-0.336
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,BL.VIOLET:1",941297,9003149412971,99,0
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,LT.TOP.:1",247741,9003142477410,99,0
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,JET:1",624856,9003146248566,99,0
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,DK.SAPPH:1",943313,9003149433136,99,0
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,ANT.GREEN:1",207943,9003142079430,99,0
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,ROSALINE:1",178664,9003141786643,99,0
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,BORDEAUX:1",661906,9003146619069,99,0
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,MED.SAPPH:1",182808,9003141828084,99,0
+16,"Taille:select:0, Couleur:select:1","MM 40.0X 11.0 (x336):0,LT.PERI:1",686085,9003146860850,99,0
+17,"Taille:select:0, Couleur:select:1","MM 63.0X 21.0 (x90):0,CRYSTAL:1",159220,9003141592206,112,0.576
+17,"Taille:select:0, Couleur:select:1","MM 38.0X 14.0 (x288):0,CRYSTAL:1",159052,9003141590523,0,0
+18,"Taille:select:0, Couleur:select:1","MM 63.0X 16.0 (x125):0,CRYSTAL:1",159222,9003141592220,154,1.06
+18,"Taille:select:0, Couleur:select:1","MM 76.0X 20.0 (x48):0,CRYSTAL:1",159223,9003141592237,0,0
+19,"Taille:select:0, Couleur:select:1","MM 38.0X 16.0 (x150):0,CRYSTAL:1",159040,9003141590400,0,0
+20,"Taille:select:0, Couleur:select:1","MM 20.0X 12.0 (x600):0,CRYSTAL:1",158737,9003141587370,0,0
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,BORDEAUX:1",661914,9003146619144,320,-0.024
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,SILK:1",5039179,9009650391798,556,-0.52
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,EMER:1",844240,9003148442405,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM 63.0X 37.0 (x45):0,TOP:1",693312,9003146933127,207,-0.09
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,BORDEAUX:1",844236,9003148442368,141,0
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,LT.PERI:1",686089,9003146860898,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,LT.PERI:1",686090,9003146860904,320,-0.024
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,BL.VIOLET:1",687225,9003146872259,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM125.0X 73.0 (x6):0,CRYSTAL:1",287422,9003142874226,121,0.096
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,TOP:1",627132,9003146271328,320,-0.408
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,BL.VIOLET:1",627116,9003146271168,320,0.168
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,BL.VIOLET:1",627115,9003146271151,141,0.216
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,TOP:1",626242,9003146262425,141,-0.432
+21,"Taille:select:0, Couleur:select:1","MM150.0X 88.0 (x2):0,CRYSTAL:1",5079538,9009650795381,0,-1.068
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,TOP:1",652323,9003146523236,556,-0.52
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,JET:1",621616,9003146216169,141,0.072
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,JET:1",621615,9003146216152,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM100.0X 58.0 (x12):0,CRYSTAL:1",5079537,9009650795374,110,0.072
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,LT.PERI:1",652377,9003146523779,141,0.072
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,SILK:1",5039181,9009650391811,141,-0.288
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,SILK:1",5039180,9009650391804,320,-0.408
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,JET:1",297008,9003142970089,320,-0.024
+21,"Taille:select:0, Couleur:select:1","MM 63.0X 37.0 (x45):0,JET:1",660054,9003146600548,207,0.585
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,VIOLET:1",844291,9003148442917,320,0.168
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,VIOLET:1",844290,9003148442900,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,EMER:1",844241,9003148442412,320,-0.024
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,VIOLET:1",941300,9003149413008,141,0.144
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,LT.TOP.:1",941301,9003149413015,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,DK.SAPPH:1",943314,9003149433143,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,DK.SAPPH:1",943315,9003149433150,320,-0.024
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,DK.SAPPH:1",1002766,9007810027662,141,0
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,ANT.GREEN:1",207948,9003142079485,141,0.072
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,ANT.GREEN:1",207947,9003142079478,320,-0.024
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,ANT.GREEN:1",207946,9003142079461,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM 89.0X 52.0 (x21):0,CRYSTAL:1",196214,9003141962146,124,0.567
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,MED.SAPPH:1",182802,9003141828022,320,-0.024
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,MED.SAPPH:1",182801,9003141828015,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,MED.SAPPH:1",182313,9003141823133,141,0.072
+21,"Taille:select:0, Couleur:select:1","MM 63.0X 37.0 (x45):0,ROSALINE:1",170013,9003141700137,207,0.54
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,ROSALINE:1",168696,9003141686967,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM175.0X102.0 (x2):0,CRYSTAL:1",5290983,9009652909830,166,-0.7
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,CRYSTAL:1",159224,9003141592244,449,-0.12
+21,"Taille:select:0, Couleur:select:1","MM 63.0X 37.0 (x45):0,CRYSTAL:1",159225,9003141592251,154,0.54
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,ROSALINE:1",165199,9003141651996,141,0.072
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,ROSALINE:1",168695,9003141686950,320,-0.024
+21,"Taille:select:0, Couleur:select:1","MM 76.0X 44.0 (x30):0,CRYSTAL:1",159226,9003141592268,165,1.11
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,LT.TOP.:1",249531,9003142495315,141,0.072
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,LT.TOP.:1",249530,9003142495308,320,-0.024
+21,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,BORDEAUX:1",844235,9003148442351,556,-0.12
+21,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,CRYSTAL:1",159139,9003141591391,251,-0.024
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,CRYSTAL:1",159023,9003141590233,99,0.072
+21,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,EMER:1",941298,9003149412988,141,0
+22,"Taille:select:0, Couleur:select:1","MM 50.0X 31.0 (x126):0,CRYSTAL:1",5279218,9009652792180,0,0
+23,"Taille:select:0, Couleur:select:1","MM 89.0X 60.0 (x10):0,CRYSTAL:1",1102155,9007811021553,0,-1.56
+23,"Taille:select:0, Couleur:select:1","MM 76.0X 52.0 (x24):0,CRYSTAL:1",1102054,9007811020549,94,-0.696
+23,"Taille:select:0, Couleur:select:1","MM 38.0X 25.0 (x224):0,CRYSTAL:1",159231,9003141592312,354,-0.464
+23,"Taille:select:0, Couleur:select:1","MM 50.0X 34.0 (x90):0,CRYSTAL:1",159232,9003141592329,264,-0.27
+23,"Taille:select:0, Couleur:select:1","MM 63.0X 43.0 (x45):0,CRYSTAL:1",159233,9003141592336,211,0
+24,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x90):0,CRYSTAL:1",159902,9003141599021,0,-0.212
+24,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x224):0,CRYSTAL:1",159901,9003141599014,160,0
+25,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x224):0,CRYSTAL:1",159692,9003141596921,160,-0.282
+25,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x90):0,CRYSTAL:1",159903,9003141599038,0,0
+26,"Taille:select:0, Couleur:select:1","MM 50.0X 31.0 (x126):0,CRYSTAL:1",160447,9003141604473,0,0
+27,"Taille:select:0, Couleur:select:1","MM 28.0X 17.0 (x400):0,CRYSTAL:1",159227,9003141592275,350,-0.048
+27,"Taille:select:0, Couleur:select:1","MM 38.0X 22.0 (x192):0,CRYSTAL:1",159228,9003141592282,152,0.24
+27,"Taille:select:0, Couleur:select:1","MM 63.0X 37.0 (x45):0,CRYSTAL:1",159229,9003141592299,55,0.342
+27,"Taille:select:0, Couleur:select:1","MM 76.0X 44.0 (x30):0,CRYSTAL:1",159230,9003141592305,66,0.462
+27,"Taille:select:0, Couleur:select:1","MM 50.0X 29.0 (x72):0,CRYSTAL:1",159042,9003141590424,0,0
+28,"Taille:select:0, Couleur:select:1","NR 005 138 (x60):0,CRYSTAL:1",1120143,9007811201436,154,1.02
+28,"Taille:select:0, Couleur:select:1","NR 003 138 (x100):0,CRYSTAL:1",678412,9003146784125,367,1
+28,"Taille:select:0, Couleur:select:1","NR 005 150 (x36):0,CRYSTAL:1",1120146,9007811201467,180,1.848
+28,"Taille:select:0, Couleur:select:1","NR 001 140 (x100):0,CRYSTAL:1",609745,9003146097454,223,1.7
+28,"Taille:select:0, Couleur:select:1","NR 001 240 (x100):0,CRYSTAL:1",986329,9003149863292,223,1.7
+28,"Taille:select:0, Couleur:select:1","NR 101 120 (x192):0,CRYSTAL:1",1120194,9007811201948,360,0.42
+28,"Taille:select:0, Couleur:select:1","NR 101 140 (x12):0,CRYSTAL:1",1120197,9007811201979,0,-0.396
+28,"Taille:select:0, Couleur:select:1","NR 101 160 (x5):0,CRYSTAL:1",1120199,9007811201993,9.2,-0.035
+28,"Taille:select:0, Couleur:select:1","NR 202 189 (x14):0,CRYSTAL:1",995659,9003149956598,232,0.698
+28,"Taille:select:0, Couleur:select:1","NR 202 550 (x2):0,CRYSTAL:1",995658,9003149956581,75,0.084
+28,"Taille:select:0, Couleur:select:1","NR 203 138 (x60):0,CRYSTAL:1",1104499,9007811044996,314,-0.06
+28,"Taille:select:0, Couleur:select:1","NR 203 150 (x36):0,CRYSTAL:1",1104500,9007811045009,274,0.336
+28,"Taille:select:0, Couleur:select:1","NR 203 163 (x12):0,CRYSTAL:1",1104501,9007811045016,68,-0.156
+28,"Taille:select:0, Couleur:select:1","NR 202 150 (x72):0,CRYSTAL:1",934451,9003149344517,588,0.516
+28,"Taille:select:0, Couleur:select:1","NR 203 176 (x8):0,CRYSTAL:1",1104502,9007811045023,69,0.02
+28,"Taille:select:0, Couleur:select:1","NR 202 176 (x20):0,CRYSTAL:1",986335,9003149863353,199,0.52
+28,"Taille:select:0, Couleur:select:1","NR 202 163 (x36):0,CRYSTAL:1",986334,9003149863346,329,0.588
+28,"Taille:select:0, Couleur:select:1","NR 307 163 (x90):0,CRYSTAL:1",1165292,9007811652924,250,0.39
+28,"Taille:select:0, Couleur:select:1","NR 307 150 (x96):0,CRYSTAL:1",1165291,9007811652917,65,-0.636
+28,"Taille:select:0, Couleur:select:1","NR 307 100 (x18):0,CRYSTAL:1",1165290,9007811652900,187,-0.456
+28,"Taille:select:0, Couleur:select:1","NR 305 176 (x60):0,CRYSTAL:1",1084841,9007810848410,226,1.02
+28,"Taille:select:0, Couleur:select:1","NR 305 100 (x36):0,CRYSTAL:1",1075574,9007810755749,457,1.452
+28,"Taille:select:0, Couleur:select:1","NR 301 176 (x48):0,ARCWHITE:1",5284385,9009652843851,199,-0.3
+28,"Taille:select:0, Couleur:select:1","NR 306 176 (x48):0,CRYSTAL:1",1120184,9007811201849,244,0.42
+28,"Taille:select:0, Couleur:select:1","NR 302 100 (x36):0,CRYSTAL:1",678411,9003146784118,457,1.452
+28,"Taille:select:0, Couleur:select:1","NR 302 163 (x90):0,CRYSTAL:1",678409,9003146784095,205,0.21
+28,"Taille:select:0, Couleur:select:1","NR 301 176 (x48):0,CRYSTAL:1",627359,9003146273599,152,-0.108
+28,"Taille:select:0, Couleur:select:1","NR 301 100 (x36):0,CRYSTAL:1",627358,9003146273582,303,0.768
+28,"Taille:select:0, Couleur:select:1","NR 307 176 (x60):0,CRYSTAL:1",1165293,9007811652931,226,0.66
+28,"Taille:select:0, Couleur:select:1","NR 401 163 (x60):0,CRYSTAL:1",841556,9003148415560,291,0.48
+28,"Taille:select:0, Couleur:select:1","NR 404 276 (x18):0,CRYSTAL:1",1165302,9007811653020,16.1,-0.276
+28,"Taille:select:0, Couleur:select:1","NR 404 176 (x18):0,CRYSTAL:1",1165301,9007811653013,16.1,-0.276
+28,"Taille:select:0, Couleur:select:1","NR 404 263 (x45):0,CRYSTAL:1",1165300,9007811653006,113,0.255
+28,"Taille:select:0, Couleur:select:1","NR 404 163 (x45):0,CRYSTAL:1",1165299,9007811652993,113,0.255
+28,"Taille:select:0, Couleur:select:1","NR 404 250 (x80):0,CRYSTAL:1",1165298,9007811652986,152,0.02
+28,"Taille:select:0, Couleur:select:1","NR 404 150 (x80):0,CRYSTAL:1",1165297,9007811652979,152,0.02
+28,"Taille:select:0, Couleur:select:1","NR 401 180 (x32):0,CRYSTAL:1",609758,9003146097584,247,0.548
+28,"Taille:select:0, Couleur:select:1","NR 501 180 (x48):0,CRYSTAL:1",876931,9003148769311,176,-0.06
+28,"Taille:select:0, Couleur:select:1","NR 501 280 (x48):0,CRYSTAL:1",986331,9003149863315,176,-0.06
+28,"Taille:select:0, Couleur:select:1","NR 809 189 (x24):0,CRYSTAL:1",1120178,9007811201788,175,1.308
+28,"Taille:select:0, Couleur:select:1","NR 809 176 (x30):0,CRYSTAL:1",1120177,9007811201771,161,0.78
+28,"Taille:select:0, Couleur:select:1","NR 809 163 (x60):0,CRYSTAL:1",1120175,9007811201757,213,0.9
+28,"Taille:select:0, Couleur:select:1","NR 809 150 (x90):0,CRYSTAL:1",1120173,9007811201733,153,0.3
+28,"Taille:select:0, Couleur:select:1","NR 809 163 (x60):0,ARCWHITE:1",5284396,9009652843967,273,0.54
+28,"Taille:select:0, Couleur:select:1","NR 802 090 (x12):0,CRYSTAL:1",627356,9003146273568,218,0.816
+28,"Taille:select:0, Couleur:select:1","NR 806 163 (x60):0,CRYSTAL:1",876932,9003148769328,214,0
+29,"Taille:select:0, Couleur:select:1","NR 001 140 (x100):0,CRYSTAL:1",5279231,9009652792319,0,0
+30,"Taille:select:0, Couleur:select:1","NR 040 063 (x45):0,CRYSTAL:1",5299890,9009652998902,154.2,0.48
+30,"Taille:select:0, Couleur:select:1","NR 031 016 (x280):0,CRYSTAL:1",5299884,9009652998841,213.2,0.36
+30,"Taille:select:0, Couleur:select:1","NR 031 014 (x384):0,CRYSTAL:1",5299882,9009652998827,198.2,0.216
+30,"Taille:select:0, Couleur:select:1","NR 041 063 (x45):0,CRYSTAL:1",5299891,9009652998919,154.2,0.75
+30,"Taille:select:0, Couleur:select:1","NR 042 063 (x45):0,CRYSTAL:1",5299892,9009652998926,154.2,0.75
+30,"Taille:select:0, Couleur:select:1","NR 041 076 (x36):0,CRYSTAL:1",5299894,9009652998940,132.2,0.408
+30,"Taille:select:0, Couleur:select:1","NR 040 076 (x36):0,CRYSTAL:1",5299893,9009652998933,132.2,0.408
+30,"Taille:select:0, Couleur:select:1","NR 021 089 (x4):0,CRYSTAL:1",5299881,9009652998810,0,-0.056
+30,"Taille:select:0, Couleur:select:1","NR 021 050 (x36):0,CRYSTAL:1",5299880,9009652998803,128.2,0.552
+30,"Taille:select:0, Couleur:select:1","NR 011 114 (x18):0,CRYSTAL:1",5299879,9009652998797,163.2,-0.006
+30,"Taille:select:0, Couleur:select:1","NR 042 076 (x36):0,CRYSTAL:1",5297121,9009652971219,132.2,0.408
+30,"Taille:select:0, Couleur:select:1","NR 011 062 (x40):0,CRYSTAL:1",5297120,9009652971202,110.2,0
+31,"Taille:select:0, Couleur:select:1","MM 89.0X 62.0 (x21):0,CRYSTAL:1",159238,9003141592381,146,-0.108
+31,"Taille:select:0, Couleur:select:1","MM 76.0X 52.0 (x40):0,CRYSTAL:1",159237,9003141592374,178,0.284
+31,"Taille:select:0, Couleur:select:1","MM 38.0X 27.0 (x256):0,CRYSTAL:1",159236,9003141592367,319,0.276
+31,"Taille:select:0, Couleur:select:1","MM 50.0X 35.0 (x120):0,CRYSTAL:1",159025,9003141590257,234,0.084
+31,"Taille:select:0, Couleur:select:1","MM 63.0X 43.0 (x50):0,CRYSTAL:1",159014,9003141590141,104,-0.446
+31,"Taille:select:0, Couleur:select:1","MM100.0X 70.0 (x12):0,CRYSTAL:1",159239,9003141592398,107,-0.9
+31,"Taille:select:0, Couleur:select:1","MM 76.0X 52.0 (x40):0,JET:1",600860,9003146008603,235,0.284
+31,"Taille:select:0, Couleur:select:1","MM140.0X 97.0 (x4):0,CRYSTAL:1",287413,9003142874134,0,-1.076
+31,"Taille:select:0, Couleur:select:1","MM 63.0X 43.0 (x50):0,JET:1",250345,9003142503454,147,-0.396
+31,"Taille:select:0, Couleur:select:1","MM114.0X 79.0 (x12):0,CRYSTAL:1",159240,9003141592404,171,0
+32,"Taille:select:0, Couleur:select:1","MM 76.0X 61.0 (x21):0,SILK:1",5039196,9009650391965,94,-0.462
+32,"Taille:select:0, Couleur:select:1","MM 50.0X 39.0 (x36):0,CRYSTAL:1",5034021,9009650340215,7,-2.1
+32,"Taille:select:0, Couleur:select:1","MM 63.0X 51.0 (x30):0,CRYSTAL:1",5034022,9009650340222,34,-0.828
+32,"Taille:select:0, Couleur:select:1","MM 63.0X 51.0 (x30):0,SILK:1",5039195,9009650391958,63,-1.188
+32,"Taille:select:0, Couleur:select:1","MM 89.0X 72.0 (x8):0,JET:1",5036882,9009650368820,22,-0.948
+32,"Taille:select:0, Couleur:select:1","MM 76.0X 61.0 (x21):0,CRYSTAL:1",5034023,9009650340239,60,-0.042
+32,"Taille:select:0, Couleur:select:1","MM 89.0X 72.0 (x8):0,CRYSTAL:1",5034024,9009650340246,0,-0.972
+32,"Taille:select:0, Couleur:select:1","MM100.0X 81.0 (x6):0,CRYSTAL:1",5034025,9009650340253,12,-0.948
+32,"Taille:select:0, Couleur:select:1","MM 63.0X 51.0 (x30):0,JET:1",5036880,9009650368806,63,-0.798
+32,"Taille:select:0, Couleur:select:1","MM 76.0X 61.0 (x21):0,JET:1",5036881,9009650368813,94,0
+33,"Taille:select:0, Couleur:select:1","MM 89.0X 52.0 (x21):0,CRYSTAL:1",969541,9003149695411,14,0.366
+33,"Taille:select:0, Couleur:select:1","MM 76.0X 44.0 (x40):0,CRYSTAL:1",969542,9003149695428,39,0.77
+33,"Taille:select:0, Couleur:select:1","MM100.0X 59.0 (x18):0,CRYSTAL:1",193125,9003141931258,100,0.9
+33,"Taille:select:0, Couleur:select:1","MM175.0X102.0 (x2):0,CRYSTAL:1",5290982,9009652909823,94,-0.714
+33,"Taille:select:0, Couleur:select:1","MM150.0X 88.0 (x6):0,CRYSTAL:1",159963,9003141599632,0,0.294
+33,"Taille:select:0, Couleur:select:1","MM 63.0X 37.0 (x60):0,CRYSTAL:1",159251,9003141592510,42,0.87
+33,"Taille:select:0, Couleur:select:1","MM 50.0X 30.0 (x90):0,CRYSTAL:1",159250,9003141592503,44,0
+34,"Taille:select:0, Couleur:select:1","MM 89.0X 59.0 (x18):0,CRYSTAL:1",159247,9003141592473,0,-1.35
+34,"Taille:select:0, Couleur:select:1","MM 76.0X 50.0 (x50):0,CRYSTAL:1",159246,9003141592466,121,0
+35,"Taille:select:0, Couleur:select:1","MM 20.0 (x300):0,JET:1",1067326,9007810673265,993,0.98
+36,"Taille:select:0, Couleur:select:1","MM300.0 (x1):0,CRYSTAL:1",1068479,9007810684797,0,0
+36,"Taille:select:0, Couleur:select:1","MM300.0 (x1):0,CRYSTAL:1",1068480,9007810684803,33,0
+37,"Taille:select:0, Couleur:select:1","MM 56.0 (x45):0,CRYSTAL:1",1067466,9007810674668,0,0
+38,"Taille:select:0, Couleur:select:1","MM 14.0 (x24):0,CRYSTAL:1",1068481,9007810684810,0,0
+39,"Taille:select:0, Couleur:select:1","MM 30.0 (x5):0,CRYSTAL:1",1068471,9007810684711,18,0
+39,"Taille:select:0, Couleur:select:1","MM 30.0 (x5):0,CRYSTAL:1",1068470,9007810684704,0,0
+40,"Taille:select:0, Couleur:select:1","MM 62.0 (x5):0,CRYSTAL:1",1072844,9007810728446,0,0
+40,"Taille:select:0, Couleur:select:1","MM 62.0 (x5):0,CRYSTAL:1",1072845,9007810728453,27,0
+42,"Taille:select:0, Couleur:select:1","MM 34.0 (x5):0,CRYSTAL:1",1068463,9007810684636,0,0
+45,"Taille:select:0, Couleur:select:1","MM 56.0 (x30):0,CRYSTAL:1",1067357,9007810673579,0,0
+50,"Taille:select:0, Couleur:select:1","MM 48.0 (x36):0,CRYSTAL:1",1066754,9007810667547,0,0
+52,"Taille:select:0, Couleur:select:1","MM 64.0 (x40):0,CRYSTAL:1",5241093,9009652410930,0,0
+53,"Taille:select:0, Couleur:select:1","MM 34.0 (x5):0,CRYSTAL:1",5292448,9009652924482,15,0
+53,"Taille:select:0, Couleur:select:1","MM 34.0 (x5):0,CRYSTAL:1",5292440,9009652924406,0,0
+53,"Taille:select:0, Couleur:select:1","MM 34.0 (x5):0,CRYSTAL:1",5292437,9009652924376,0,0
+53,"Taille:select:0, Couleur:select:1","MM 34.0 (x5):0,CRYSTAL:1",5292436,9009652924369,0,0
+54,"Taille:select:0, Couleur:select:1","MM 60.0 (x30):0,CRYSTAL:1",1067468,9007810674682,0,0
+55,"Taille:select:0, Couleur:select:1","MM 50.0 (x5):0,CRYSTAL:1",5200740,9009652007406,59,1.78
+55,"Taille:select:0, Couleur:select:1","MM 50.0 (x5):0,CRYSTAL:1",5200739,9009652007390,59,1.78
+55,"Taille:select:0, Couleur:select:1","MM 50.0 (x5):0,CRYSTAL:1",5200738,9009652007383,83,1.78
+55,"Taille:select:0, Couleur:select:1","MM 25.0 (x5):0,CRYSTAL:1",5200737,9009652007376,0,0
+55,"Taille:select:0, Couleur:select:1","MM 25.0 (x5):0,CRYSTAL:1",5200735,9009652007352,0,0
+55,"Taille:select:0, Couleur:select:1","MM 25.0 (x5):0,CRYSTAL:1",5200733,9009652007338,15,0
+56,"Taille:select:0, Couleur:select:1","MM 40.0 (x5):0,CRYSTAL:1",1072848,9007810728484,20,0
+56,"Taille:select:0, Couleur:select:1","MM 40.0 (x5):0,CRYSTAL:1",1072847,9007810728477,0,0
+57,"Taille:select:0, Couleur:select:1","NR 801 114 (x1800):0,LEADFREE:1",209315,9003142093153,55.3,-0.024
+57,"Taille:select:0, Couleur:select:1","NR 801 214 (x1800):0,LEADFREE:1",209163,9003142091630,55.3,-0.024
+57,"Taille:select:0, Couleur:select:1","NR 801 224 (x240):0,LEADFREE:1",209173,9003142091739,16.8,0.096
+57,"Taille:select:0, Couleur:select:1","NR 801 218 (x640):0,LEADFREE:1",209167,9003142091678,35.1,0.4736
+57,"Taille:select:0, Couleur:select:1","NR 802 618 (x400):0,LEADFREE:1",203033,9003142030332,5.5,-0.224
+57,"Taille:select:0, Couleur:select:1","NR 802 622 (x210):0,LEADFREE:1",203034,9003142030349,0,-0.354
+57,"Taille:select:0, Couleur:select:1","NR 802 722 (x210):0,LEADFREE:1",203035,9003142030356,0,-0.354
+57,"Taille:select:0, Couleur:select:1","NR 802 522 (x210):0,LEADFREE:1",203627,9003142036273,0,-0.354
+57,"Taille:select:0, Couleur:select:1","NR 801 216 (x900):0,LEADFREE:1",209165,9003142091654,35.5,-0.024
+57,"Taille:select:0, Couleur:select:1","NR 801 226 (x200):0,LEADFREE:1",209175,9003142091753,17.3,0.176
+57,"Taille:select:0, Couleur:select:1","NR 801 230 (x125):0,LEADFREE:1",209177,9003142091777,12.1,0.176
+57,"Taille:select:0, Couleur:select:1","NR 801 232 (x125):0,LEADFREE:1",209179,9003142091791,23.9,0.551
+57,"Taille:select:0, Couleur:select:1","NR 801 212 (x2200):0,LEADFREE:1",209181,9003142091814,62,0.376
+57,"Taille:select:0, Couleur:select:1","NR 801 228 (x150):0,LEADFREE:1",209224,9003142092248,11.6,-0.024
+57,"Taille:select:0, Couleur:select:1","NR 801 112 (x2200):0,LEADFREE:1",209313,9003142093139,62,0.376
+57,"Taille:select:0, Couleur:select:1","NR 801 116 (x900):0,LEADFREE:1",209317,9003142093177,35.5,-0.024
+57,"Taille:select:0, Couleur:select:1","NR 801 118 (x640):0,LEADFREE:1",209319,9003142093191,35.1,0.096
+57,"Taille:select:0, Couleur:select:1","NR 801 120 (x420):0,LEADFREE:1",209321,9003142093214,28.7,-0.144
+57,"Taille:select:0, Couleur:select:1","NR 801 122 (x350):0,LEADFREE:1",209323,9003142093238,29.3,0.276
+57,"Taille:select:0, Couleur:select:1","NR 801 222 (x350):0,LEADFREE:1",209171,9003142091715,29.3,0.276
+57,"Taille:select:0, Couleur:select:1","NR 801 220 (x420):0,LEADFREE:1",209169,9003142091692,28.7,0.276
+57,"Taille:select:0, Couleur:select:1","NR 855 150 (x12):0,LEADFREE:1",293231,9003142932315,25.5,0.396
+57,"Taille:select:0, Couleur:select:1","NR 855 140 (x40):0,LEADFREE:1",249427,9003142494271,92,1.816
+57,"Taille:select:0, Couleur:select:1","NR 855 130 (x48):0,LEADFREE:1",249426,9003142494264,40.1,0.096
+57,"Taille:select:0, Couleur:select:1","NR 855 120 (x144):0,LEADFREE:1",249425,9003142494257,86,0.048
+57,"Taille:select:0, Couleur:select:1","NR 855 040 (x40):0,LEADFREE:1",195959,9003141959597,92,1.536
+57,"Taille:select:0, Couleur:select:1","NR 855 020 (x144):0,LEADFREE:1",195958,9003141959580,86,-0.24
+57,"Taille:select:0, Couleur:select:1","NR 855 030 (x48):0,LEADFREE:1",195957,9003141959573,40.1,0

@@ -1,0 +1,61 @@
+id,attribut,valeur,ref,impactprix,impactpoids,qtt,ean
+1,"Taille:select:1, Couleur:select:2","MM 20.0           (x144):1,CRYSTAL   CVZSI                           :2",1067320,245,0.382,9007810673203,10
+1,"Taille:select:1, Couleur:select:2","MM 30.0       (x48):1,CRYSTAL   CVZSI                           :2",1067349,87,0.67,9007810673494,10
+1,"Taille:select:1, Couleur:select:2","MM 40.0      (x40):1,CRYSTAL   CVZSI                           :2",1067350,194,2.76,9007810673500,10
+1,"Taille:select:1, Couleur:select:2","MM 50.0  (x12):1,CRYSTAL   CVZSI                           :2",1067351,57,0.658,9007810673517,10
+1,"Taille:select:1, Couleur:select:2","MM 60.0                (x5):1,CRYSTAL   CVZSI                           :2",1067352,0,0,9007810673524,10
+2,"Taille:select:1, Couleur:select:2","MM 30.0                (x48):1,CRYSTAL   CVZSI                           :2",1067329,30,0,9007810673296,10
+2,"Taille:select:1, Couleur:select:2","MM 40.0                (x40):1,CRYSTAL   CVZSI                           :2",1067337,137,1.914,9007810673371,10
+2,"Taille:select:1, Couleur:select:2","MM 50.0                (x12):1,CRYSTAL   CVZSI                           :2",1067353,0,0.45,9007810673531,10
+3,"Taille:select:1, Couleur:select:2","MM 20.0                (x300):1,CRYSTAL   :2",1067326,993,1.195,9007810673265,10
+3,"Taille:select:1, Couleur:select:2","MM 14.0                (x560):1,CRYSTAL   CASI   :2",1067321,1073,0.455,9007810673210,10
+3,"Taille:select:1, Couleur:select:2","MM 20.0                (x300):1,CRYSTAL   CASI :2",1067324,943,1.171,9007810673241,10
+3,"Taille:select:1, Couleur:select:2","MM 30.0       (x120):1,CRYSTAL  CALSI:2",1067330,711,1.833,9007810673302,10
+3,"Taille:select:1, Couleur:select:2","MM 14.0                (x560):1,CRYSTAL  CALVSI:2",1067322,1073,0,9007810673227,10
+3,"Taille:select:1, Couleur:select:2","MM 20.0                (x300):1,CRYSTAL  CALVSI:2",1067325,943,1.17,9007810673258,10
+3,"Taille:select:1, Couleur:select:2","MM 30.0                (x120):1,CRYSTAL   CAVSI  :2",1067331,711,1.834,9007810673319,10
+3,"Taille:select:1, Couleur:select:2","MM 40.0                (x60):1,CRYSTAL   CAVSI  :2",1067338,279,2.414,9007810673388,10
+3,"Taille:select:1, Couleur:select:2","MM 50.0                (x24):1,CRYSTAL   CAVSI  :2",1067354,0,1.42,9007810673548,10
+4,"Taille:select:1, Couleur:select:2","MM 50.0                (x24):1,CRYSTAL   CAVSI  :2",1067356,0,0,9007810673562,10
+5,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,CRYSTAL   :2",1068463,0,0,9007810684636,10
+5,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,CRYSTAL   :2",1068464,14.5,0,,10
+5,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,CRYSTAL   :2",1068465,0,0,,10
+6,"Taille:select:1, Couleur:select:2","MM 62.0                (x5):1,CRYSTAL   :2",1072845,26,0,9007810728453,10
+6,"Taille:select:1, Couleur:select:2","MM 62.0                (x5):1,CRYSTAL   :2",1072844,0,0,9007810728446,10
+6,"Taille:select:1, Couleur:select:2","MM 62.0                (x5):1,CRYSTAL   :2",1072846,0,0,,10
+7,"Taille:select:1, Couleur:select:2","MM 25.0                (x5):1,CRYSTAL   :2",5200735,0,0,9009652007352,10
+7,"Taille:select:1, Couleur:select:2","MM 25.0                (x5):1,CRYSTAL   :2",5200737,0,0,9009652007376,10
+7,"Taille:select:1, Couleur:select:2","MM 25.0                (x5):1,CRYSTAL   :2",5200733,15,0,9009652007338,10
+7,"Taille:select:1, Couleur:select:2","MM 50.0                (x5):1,CRYSTAL   :2",5200739,59,1.78,9009652007390,10
+7,"Taille:select:1, Couleur:select:2","MM 50.0                (x5):1,CRYSTAL   :2",5200740,59,1.78,9009652007406,10
+7,"Taille:select:1, Couleur:select:2","MM 50.0                (x5):1,CRYSTAL   :2",5200738,83,1.78,9009652007383,10
+8,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,CRYSTAL   MD305  :2",5292448,15,0,9009652924482,10
+8,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,CRYSTAL   MD302  :2",5292436,0,0,9009652924369,10
+8,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,CRYSTAL   MD304  :2",5292440,0,0,9009652924406,10
+8,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,CRYSTAL   MD303 :2",5292437,0,0,9009652924376,10
+8,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,CRYSTAL   AB:2",5236339,5,0,9009652363397,10
+8,"Taille:select:1, Couleur:select:2","MM 62.0                (x5):1,CRYSTAL  AB     :2",5236342,95,2.42,9009652363427,10
+8,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,CRYSTAL   GOLDEN SHADOW         :2",5202594,20,0,9009652025943,10
+8,"Taille:select:1, Couleur:select:2","MM 62.0                (x5):1,CRYSTAL  GOLDEN SHADOW       :2",5202600,121,2.42,9009652026001,10
+8,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,CRYSTAL   CHROM  :2",5236340,5,0,9009652363403,10
+8,"Taille:select:1, Couleur:select:2","MM 62.0                (x5):1,CRYSTAL  CHROM        :2",5236343,95,2.42,9009652363434,10
+8,"Taille:select:1, Couleur:select:2","MM 34.0                (x5):1,JET    HEM  :2",5236341,20,0.006,9009652363410,10
+8,"Taille:select:1, Couleur:select:2","MM 62.0                (x5):1,JET   HEM      :2",5236344,121,2.459,9009652363441,10
+9,"Taille:select:1, Couleur:select:2","MM 30.0                (x5):1,CRYSTAL      :2",1068471,18,0,9007810684711,10
+9,"Taille:select:1, Couleur:select:2","MM 30.0                (x5):1,CRYSTAL      :2",1068470,0,0,9007810684704,10
+10,"Taille:select:1, Couleur:select:2","MM 40.0                (x5):1,CRYSTAL      :2",1072848,20,0,9007810728484,10
+10,"Taille:select:1, Couleur:select:2","MM 40.0                (x5):1,CRYSTAL      :2",1072847,0,0,9007810728477,10
+11,"Taille:select:1, Couleur:select:2","MM300.0                (x1):1,CRYSTAL      :2",1068480,33,0,9007810684803,10
+11,"Taille:select:1, Couleur:select:2","MM300.0                (x1):1,CRYSTAL      :2",1068479,0,0,9007810684797,10
+12,"Taille:select:1, Couleur:select:2","MM 14.0                (x24):1,CRYSTAL      :2",1068481,0,0,9007810684810,10
+13,"Taille:select:1, Couleur:select:2","MM 16.0                (x192):1,CRYSTAL   CVZSI  :2",1067456,0,0,9007810674569,10
+14,"Taille:select:1, Couleur:select:2","MM 56.0                (x30):1,CRYSTAL        :2",1067357,0,0,9007810673579,10
+15,"Taille:select:1, Couleur:select:2","MM 56.0                (x45):1,CRYSTAL        :2",1067466,0,0,9007810674668,10
+16,"Taille:select:1, Couleur:select:2","MM 60.0                (x30):1,CRYSTAL        :2",1067468,0,0,9007810674682,10
+17,"Taille:select:1, Couleur:select:2","MM 60.0             (x10):1,CRYSTAL  CALVZSI:2",1067471,0,0,9007810674712,10
+18,"Taille:select:1, Couleur:select:2","MM 61.0                (x5):1,CRYSTAL   CVSI  :2",1067472,0,0,9007810674729,10
+19,"Taille:select:1, Couleur:select:2","MM 50.0                (x12):1,CRYSTAL           :2",1066751,0,0,9007810667516,10
+20,"Taille:select:1, Couleur:select:2","MM 64.0                (x40):1,CRYSTAL       :2",5241093,0,0,9009652410930,10
+20,"Taille:select:1, Couleur:select:2","MM 64.0                (x40):1,CRYSTAL   SIGLA        :2",5293122,110,0,9009652931220,10
+21,"Taille:select:1, Couleur:select:2","MM 50.0                (x36):1,CRYSTAL        :2",1066755,0,0,9007810667554,10
+22,"Taille:select:1, Couleur:select:2","MM 48.0                (x36):1,CRYSTAL   CVSI     :2",1066754,0,0,9007810667547,10

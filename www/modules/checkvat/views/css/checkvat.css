@@ -1,0 +1,16 @@
+#tableConfig{width:100%; border:1px solid #ccced7;margin-top:20px}
+#tableConfig select{width: auto!important;display: inline;}
+#tableConfig td{border:1px solid #ccced7;padding:5px;text-align:center}
+table#table_customer {width:100%;border-collapse:collapse;margin-top:20px;}
+table#table_customer a, table#table_customer a:visited, table#table_customer a:hover{text-decoration: none;}
+table#table_customer td{border:1px solid #DFD5C3;}
+table#table_customer td,table#table_customer th{text-align:center;padding:5px;}
+table#table_customer th{background-color:#DFFAD3;border:1px solid #DFD5C3}
+table#table_customer img{margin:10px}
+#vat_number{display:block !important}
+
+span.pagination{padding:3px!important;margin:5px!important;border:1px solid black!important;}
+.bootstrap .pagination{min-width: 25px!important;text-align: center!important;}
+span.current_page{font-size:130%!important;background-color:#ccffcc}
+p.cv_help{font-weight:bold;}
+p.cv_answer{margin-left:20px;margin-bottom:40px;}

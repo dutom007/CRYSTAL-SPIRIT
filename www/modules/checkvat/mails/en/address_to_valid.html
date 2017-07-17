@@ -1,0 +1,33 @@
+<style type="text/css">
+table.address{border:1px solid black;border-collapse:collapse;width:100%}
+table.address tr>td:first-child {text-align: right;}
+table.address td{border:1px solid black;padding:5px;}
+</style>
+
+<p>Bonjour {employee_lastname} {employee_firstname},</p>
+
+
+<p>Le client <strong>{lastname} {firstname}</strong> viens d'enregistrer une nouvelle adresse :</p>
+
+<table class="address">
+<tr><td>company</td><td>{company}</td></tr>
+<tr><td>lastname</td><td>{lastname}</td></tr>
+<tr><td>firstname</td><td>{firstname}</td></tr>
+<tr><td>address1</td><td>{address1}</td></tr>
+<tr><td>address2</td><td>{address2}</td></tr>
+<tr><td>postcode</td><td>{postcode}</td></tr>
+<tr><td>city</td><td>{city}</td></tr>
+<tr><td>other</td><td>{other}</td></tr>
+<tr><td>phone</td><td>{phone}</td></tr>
+<tr><td>phone_mobile</td><td>{phone_mobile}</td></tr>
+<tr><td>vat_number</td><td>{vat_number}</td></tr>
+</table>
+
+
+<p>Si vous souhaitez la valider, <a target="_blank" href="{shop_url}/modules/checkvat/validation.php?token={token}&id_addresse={id_address}">cliquez ici </a></p>
+
+<p>Si vous souhaitez supprimer le numéro de TVA de ce client, <a target="_blank" href="{shop_url}/modules/checkvat/takeoff.php?token={token}&id_addresse={id_address}">cliquez ici </a></p>
+
+<p>
+<span><a target="_blank" href="{shop_url}" style="color:#337ff1">{shop_name}</a> réalisé avec <a target="_blank" href="http://www.coeos.pro" style="color:#337ff1">www.coeos.pro</a></span>
+</p>

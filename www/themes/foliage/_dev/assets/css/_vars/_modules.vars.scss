@@ -1,0 +1,111 @@
+// Mini basket and shopping cart
+// ========================================================================
+$cart-heading-color : 				#fff!default;
+$cart-icon-bg:                      $theme-color !default;
+$cart-icon-color:                   $theme-color !default;
+$cart-icon-font-size:               $font-size-base !default;
+$cart-product-font-size:			11px !default;
+$cart-align-right:                  0px !default;
+$cart-content-width: 				400px !default;
+
+$quick-setting-border:              1px solid $border-color !default;
+$quick-setting-border-hover:        1px solid $theme-color !default;
+
+// Mini basket and shopping cart
+// ========================================================================
+
+//Minicart
+$minicart-module-bg:                $nocolor !default;
+$minicart-module-font:              600 14px $font-custom !default;
+$minicart-module-list-font-family:  $font-family !default;
+$minicart-module-list-font-size:    $font-size-base + 2!default;
+
+ 
+// Button
+// ========================================================================
+ 
+
+
+
+
+// Contact page
+// ========================================================================
+$contact-bg:                        $nocolor !default;
+$contact-padding:                   20px !default;
+$contact-border:                    0 !default;
+$contact-icon-color:                $white !default;
+$contact-icon-bg:                   lighten($gray, 30%) !default;
+$contact-icon-font-size:            $font-size-base + 5 !default;
+$contact-icon-hover-bg:             $theme-color !default;
+$contact-height:                    338px !default;
+
+
+
+
+
+
+// Mega Menu Module
+// ========================================================================
+$megamenu-outside-bg :	 						$nocolor !default;
+$megamenu-bg: 											#fff !default;
+$megamenu-color: 				    				#222222 !default;
+$megamenu-font-family:              $font-family !default;
+$megamenu-link-color: 							#434a54 !default;
+$megamenu-link-hover-color:         $theme-color !default;
+$megamenu-link-font-size:           14px  !default;
+$megamenu-font-weight:           		600  !default;
+
+$megamenu-parent-padding: 					17px 25px !default;
+$megamenu-parent-text-transform: 		uppercase!default;
+
+
+$megamenu-sub-bg-color: 						#fff !default;
+$megamenu-sub-font-family:             $font-family-base !default;
+$megamenu-sub-text-color:           #8a8a8a !default;
+$megamenu-sub-link-color: 					#8a8a8a !default;
+$megamenu-sub-link-hover-color: 				$theme-color !default;
+$megamenu-sub-font-size:            $font-size-base !default;
+
+
+$megamenu-heading-font-family: $font-family!default;
+$megamenu-heading-font-size: 15px!default;
+$megamenu-heading-color: #000!default;
+// Vertical Menu Module
+// ========================================================================
+$vertical-menu-font-family:         $font-custom !default;
+$vertical-menu-content-bg:          #fff!default;
+$vertical-menu-content-height:      500px !default;
+$vertical-menu-content-padding:     0 !default;
+$vertical-menu-content-margin:      0 !default;
+$vertical-menu-content-border:      $border-color !default;
+$vertical-menu-font-size:           11px !default;
+$vertical-menu-color:               #222 !default;
+$vertical-menu-font-weight:         700 !default;
+$vertical-menu-line-height:					16px !default;
+$vertical-menu-link-padding: 				15px 0!default;
+$vertical-menu-link-hover-color:    $link-hover-color !default;
+$vertical-border-color:             $border-color !default;
+$vertical-description-font-family:	$font-family-base !default;
+$vertical-description-font-size:    12px !default;
+$vertical-description-font-style:   normal !default;
+$vertical-description-color: 	    #6f757c !default;
+$vertical-description-font-weight:  400 !default;
+$vertical-caret-border:             #f5f5f5 !default;
+$vertical-sub-menu-padding:         20px 30px !default;
+$vertical-sub-menu-width:           215px !default;
+$vertical-sub-color:         		#6a6a6b !default;
+$vertical-sub-menu-link-color:      #6a6a6b !default;
+$vertical-sub-menu-font-family:		$font-family-base !default;
+$vertical-sub-menu-link-font-size:  13px  !default;
+$vertical-sub-menu-heading-color:   $black !default;
+$vertical-sub-menu-heading-font-size:   12px !default;
+$vertical-sub-menu-heading-font-family:   $font-family-tertiary !default;
+$vertical-sub-menu-bg:              	#fff !default;
+$vertical-sub-menu-link-hover-color:          $theme-color !default;
+$vertical-sub-shadow:  				0px 0px 5px 0px rgba(0, 0, 0, 0.35) !default;
+$vertical-sub-product-link:         $black !default;
+
+
+$vertical-widget-title-color:         	$black !default;
+$vertical-widget-title-font-size:       14px !default;
+$vertical-widget-title-font-family:     $font-family !default;

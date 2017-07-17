@@ -1,0 +1,313 @@
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/**
+ * Product Item Selectors
+ */
+/***********************************************************************/
+/* RIGHT TO LEFT */
+/* BACKGROUND GRADIENT */
+/* BACKGROUND RADIAL */
+/* BACKGROUND SIZE */
+/* BORDER RADIUS */
+/* DOUBLE BORDERS */
+/* TRIPLE BORDERS */
+/* FONT FACE */
+/* OPACITY */
+/* TEXT SHADOW */
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/**parallax**/
+/**absolute**/
+/*  
+ * LAYOUT VARIABLES 
+ */
+/** CHECKOUT BY STEP */
+/* --- SCSS For Accordion --- */
+/* --- SCSS For Breadcrumb --- */
+/* --- SCSS For Buttons --- */
+/* --- SCSS For Call-to-action --- */
+/* --- SCSS For Content-slider --- */
+/*  */
+/* carousel-controls-v1 */
+/* carousel-controls-v2 */
+/* carousel-controls-v3 */
+/* Navigation Styles */
+/* carousel-indicators-v1 */
+/* carousel-indicators-v2 */
+/* carousel-indicators-v3 */
+/* carousel-indicators-v4 */
+/* carousel-indicators-v5 */
+/* carousel-indicators-v6 */
+/* --- SCSS For Counters --- */
+/* --- SCSS For Heading --- */
+/* --- SCSS For Icon-box --- */
+/* --- SCSS For Interactive-banner --- */
+/* --- SCSS For Latest-posts --- */
+/* latest posts */
+/* --- SCSS For List --- */
+/* variables for list */
+/* variables for list light */
+/* --- SCSS For Message --- */
+/* --- SCSS For Newsletter --- */
+/* --- SCSS For Piechart --- */
+/* --- SCSS For Pricing --- */
+/* --- SCSS For Process-steps --- */
+/* process-steps */
+/* --- SCSS For Service --- */
+/* variables for tab style1 using as base of tab */
+/* --- SCSS For Style-icon --- */
+/* Variables icons default */
+/* Variables icons bodered */
+/* Variables icons darker */
+/* Variables icons light */
+/* Variables icons plain */
+/* Variables icons for light style */
+/* Variables icons outline */
+/* Variables icons inverse */
+/* --- SCSS For Table --- */
+/* --- SCSS For Tabs --- */
+/* variables for tab style1 using as base of tab */
+/* tab style version 4 */
+/* tab style version 5 */
+/* tab style version 6 */
+/* --- SCSS For Testimonials --- */
+/* testimonials default */
+/* testimonials-v1 */
+/* testimonials light */
+/* --- SCSS For Typography --- */
+/* panel */
+.block-contact {
+  border-left: #ebebeb 2px solid;
+  padding-left: 3.69231rem;
+  color: #acaaa6;
+}
+.block-contact .block-contact-title {
+  color: #434a54;
+}
+
+.linklist .blockcms-title a {
+  color: #434a54;
+}
+
+.account-list a {
+  color: #acaaa6;
+}
+.account-list a:hover {
+  color: #293f85;
+}
+
+.blockcms-title,
+.myaccount-title,
+.myaccount-title a,
+.block-contact-title {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.block-social {
+  text-align: right;
+}
+
+.block-social li {
+  height: 3.07692rem;
+  width: 3.07692rem;
+  background-color: #ebebeb;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin: 0.15385rem;
+  cursor: pointer;
+}
+.block-social li:hover {
+  background-color: #293f85;
+}
+.block-social li a {
+  display: block;
+  height: 100%;
+  white-space: nowrap;
+  text-indent: 100%;
+  overflow: hidden;
+}
+.block-social li a:hover {
+  color: transparent;
+}
+
+.facebook {
+  background-image: url(../img/facebook.svg);
+}
+.facebook::before {
+  content: "";
+  background-image: url(../img/facebook-blue.svg);
+}
+.facebook.icon-gray {
+  background-image: url(../img/facebook-gray.svg);
+}
+.facebook.icon-gray:hover {
+  background-image: url(../img/facebook-blue.svg);
+}
+
+.twitter {
+  background-image: url(../img/twitter.svg);
+}
+.twitter::before {
+  content: "";
+  background-image: url(../img/twitter-blue.svg);
+}
+.twitter.icon-gray {
+  background-image: url(../img/twitter-gray.svg);
+}
+.twitter.icon-gray:hover {
+  background-image: url(../img/twitter-blue.svg);
+}
+
+.rss {
+  background-image: url(../img/rss.svg);
+}
+
+.youtube {
+  background-image: url(../img/youtube.svg);
+}
+
+.googleplus {
+  background-image: url(../img/gplus.svg);
+}
+.googleplus::before {
+  content: "";
+  background-image: url(../img/gplus-blue.svg);
+}
+.googleplus.icon-gray {
+  background-image: url(../img/gplus-gray.svg);
+}
+.googleplus.icon-gray:hover {
+  background-image: url(../img/gplus-blue.svg);
+}
+
+#block_myaccount_infos .myaccount-title a {
+  color: #434a54;
+}
+
+.pinterest {
+  background-image: url(../img/pinterest.svg);
+}
+.pinterest::before {
+  content: "";
+  background-image: url(../img/pinterest-blue.svg);
+}
+.pinterest.icon-gray {
+  background-image: url(../img/pinterest-gray.svg);
+}
+.pinterest.icon-gray:hover {
+  background-image: url(../img/pinterest-blue.svg);
+}
+
+.vimeo {
+  background-image: url(../img/vimeo.svg);
+}
+
+.instagram {
+  background-image: url(../img/instagram.svg);
+}
+
+.footer-container {
+  overflow: hidden;
+}
+.footer-container li {
+  margin-bottom: 0.38462rem;
+}
+.footer-container li a {
+  color: #878787;
+  cursor: pointer;
+  font-size: 1.07692rem;
+}
+.footer-container li a:hover {
+  color: #293f85;
+}
+.footer-container .links .collapse {
+  display: inherit;
+}
+
+.bo-social-icons {
+  text-align: center;
+  margin: 15px 0 0;
+}
+.bo-social-icons li {
+  display: inline-block;
+}
+.bo-social-icons li a span {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .footer-container {
+    box-shadow: none;
+    margin-top: 0;
+  }
+  .footer-container .wrapper {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .footer-container .links .h3 {
+    line-height: 1.5;
+    font-size: 1.23077rem;
+  }
+  .footer-container .links .title {
+    padding: 0.76923rem;
+    border-bottom: 1px solid #f6f6f6;
+    cursor: pointer;
+  }
+  .footer-container .links .title .collapse-icons .remove {
+    display: none;
+  }
+  .footer-container .links .title[aria-expanded="true"] .collapse-icons .add {
+    display: none;
+  }
+  .footer-container .links .title[aria-expanded="true"] .collapse-icons .remove {
+    display: block;
+  }
+  .footer-container .links .navbar-toggler {
+    display: inline-block;
+    padding: 0;
+  }
+  .footer-container .links .collapse {
+    display: none;
+  }
+  .footer-container .links .collapse.in {
+    display: block;
+  }
+  .footer-container .links ul {
+    background-color: #f6f6f6;
+    margin-bottom: 0;
+  }
+  .footer-container .links ul > li {
+    padding: 0.76923rem;
+    border-bottom: 1px solid white;
+    font-weight: bold;
+  }
+  .footer-container .links ul > li a {
+    color: #434a54;
+  }
+}
+@media (max-width: 991px) {
+  .block-social {
+    text-align: center;
+  }
+
+  .block-contact {
+    padding-left: 1.84615rem;
+  }
+}
+#footer .nav-links li a {
+  color: #aab2bd;
+  font-size: 12px;
+  text-transform: capitalize;
+}
+#footer .nav-links li a:hover {
+  color: #00cb8f;
+}

@@ -1,0 +1,374 @@
+id,attribut,valeur,ref,impactprix,impactpoids,qtt
+1,"Taille:select:1, Couleur:select:2, Effet:select:0 ","90 (x12):1,Crystal:2,Standard:0",159523,0,0,10
+2,"Taille:select:1, Couleur:select:2, Effet:select:0 ","75 (x12):1,Crystal:2,Standard:0",5081769,6,0.00414,10
+2,"Taille:select:1, Couleur:select:2, Effet:select:0 ","90 (x9):1,Crystal:2,Standard:0",5081770,0,0.01686,10
+2,"Taille:select:1, Couleur:select:2, Effet:select:0 ","110 (x6):1,Crystal:2,Standard:0",5081772,15,0,10
+3,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50 (x12):1,Crystal:2,Standard:0",159524,0,0,10
+3,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50 (x12):1,Crystal:2,Standard:0",159486,0,0,10
+4,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x39 (x20):1,Crystal:2,Standard:0",159487,0,0,10
+5,"Taille:select:1, Couleur:select:2, Effet:select:0 ","80 (x4):1,Crystal:2,Standard:0",160444,0,0,10
+6,"Taille:select:1, Couleur:select:2, Effet:select:0 ","55 (x36):1,Crystal:2,Standard:0",159525,0,0.0792,10
+6,"Taille:select:1, Couleur:select:2, Effet:select:0 ","55 (x36):1,Crystal:2,Standard:0",159490,0,0,10
+7,"Taille:select:1, Couleur:select:2, Effet:select:0 ","175 (x1):1,Crystal:2,Standard:0",5256819,0,0,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","12 (x2.6):1,Crystal:2,Standard:0",265953,371.9,0.03368,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Antique Green:2,Standard:0",274034,295.9,0.0083,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Blue Violet:2,Standard:0",627120,295.9,0.00982,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Bordeaux:2,Standard:0",274035,295.9,0.00733,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Crystal:2,Standard:0",265954,230.9,0.00827,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Arctic White:2,Standard:0",5284407,295.9,0.00283,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Dark Sapphire:2,Standard:0",943307,295.9,0.00713,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Emerald:2,Standard:0",696435,295.9,0.00771,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Jet:2,Standard:0",632236,295.9,0.00861,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Light Peridot:2,Standard:0",662779,295.9,0.00827,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Light Topaz:2,Standard:0",274036,295.9,0.00852,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Medium Sapphire:2,Standard:0",274037,295.9,0.0083,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Rosaline:2,Standard:0",274038,295.9,0.0083,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Silk:2,Standard:0",5039147,295.9,0.00386,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Topaz:2,Standard:0",627126,295.9,0.00204,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Violet:2,Standard:0",695137,295.9,0.00915,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","16 (x1):1,Crystal:2,Standard:0",265955,227.9,0,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","18 (x600):1,Crystal:2,Standard:0",265966,156.9,12.9345,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x420):1,Crystal:2,Standard:0",265970,133.9,9.2985,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","22 (x350):1,Crystal:2,Standard:0",265971,152.9,8.5845,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","24 (x300):1,Crystal:2,Standard:0",265973,180.9,8.3745,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","26 (x240):1,Crystal:2,Standard:0",265977,169.9,6.5097,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28 (x150):1,Crystal:2,Standard:0",265981,103.9,3.3645,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x125):1,Crystal:2,Standard:0",265984,103.9,3.0145,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x56):1,Crystal:2,Standard:0",265986,126.9,1.2961,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50 (x20):1,Crystal:2,Standard:0",265987,0,0.3345,10
+8,"Taille:select:1, Couleur:select:2, Effet:select:0 ","60 (x20):1,Crystal:2,Standard:0",265988,56.9,0.5195,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","10 (x3):1,Crystal:2,Standard:0",265809,437.9,0.03588,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","12 (x2.6):1,Crystal:2,Standard:0",265814,371.9,0.03154,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Antique Green:2,Standard:0",274039,295.9,0.00629,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Blue Violet:2,Standard:0",627121,295.9,0.00776,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Bordeaux:2,Standard:0",274040,295.9,0.00533,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Crystal:2,Standard:0",265822,230.9,0.00623,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Arctic White:2,Standard:0",5284408,295.9,0.00091,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Dark Sapphire:2,Standard:0",943308,295.9,0.00514,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Emerald:2,Standard:0",696436,295.9,0.00571,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Jet:2,Standard:0",626064,295.9,0.00659,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Light Peridot:2,Standard:0",662780,295.9,0.00623,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Light Topaz:2,Standard:0",274041,295.9,0.0065,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Medium Sapphire:2,Standard:0",274042,295.9,0.00629,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Rosaline:2,Standard:0",274043,295.9,0.00629,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Silk:2,Standard:0",5014575,295.9,0.00191,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Topaz:2,Standard:0",627127,295.9,0.00015,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Violet:2,Standard:0",695138,295.9,0.00712,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","16 (x1):1,Crystal:2,Standard:0",265830,227.9,0,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","18 (x600):1,Crystal:2,Standard:0",265837,156.9,13.0545,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x420):1,Crystal:2,Standard:0",265840,133.9,9.2985,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","22 (x350):1,Crystal:2,Standard:0",265844,152.9,8.1645,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","24 (x300):1,Crystal:2,Standard:0",265845,180.9,7.8945,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","26 (x240):1,Crystal:2,Standard:0",265938,169.9,6.1665,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28 (x150):1,Crystal:2,Standard:0",265939,103.9,3.3645,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x125):1,Crystal:2,Standard:0",265940,103.9,2.95825,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","32 (x125):1,Crystal:2,Standard:0",265773,143.9,3.5245,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","34 (x100):1,Crystal:2,Standard:0",265942,133.9,2.6845,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","36 (x80):1,Crystal:2,Standard:0",265943,124.9,1.9585,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38 (x80):1,Crystal:2,Standard:0",265945,168.9,2.2785,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x56):1,Crystal:2,Standard:0",265946,126.9,1.2961,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50 (x20):1,Crystal:2,Standard:0",265947,0,0.3345,10
+9,"Taille:select:1, Couleur:select:2, Effet:select:0 ","60 (x20):1,Crystal:2,Standard:0",265941,56.9,0.5195,10
+10,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x1.8):1,Crystal:2,Standard:0",265989,3,0.00568,10
+10,"Taille:select:1, Couleur:select:2, Effet:select:0 ","16 (x1):1,Crystal:2,Standard:0",265991,0,0,10
+11,"Taille:select:1, Couleur:select:2, Effet:select:0 ","16 (x1):1,Crystal:2,Standard:0",266000,0,0,10
+12,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x800):1,Crystal:2,Standard:0",5191369,158.6,16.225,10
+12,"Taille:select:1, Couleur:select:2, Effet:select:0 ","16 (x540):1,Crystal:2,Standard:0",5191371,120.6,9.489,10
+12,"Taille:select:1, Couleur:select:2, Effet:select:0 ","18 (x400):1,Crystal:2,Standard:0",5191373,106.6,6.685,10
+12,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x280):1,Crystal:2,Standard:0",5191375,82.6,5.083,10
+12,"Taille:select:1, Couleur:select:2, Effet:select:0 ","22 (x210):1,Crystal:2,Standard:0",5191378,72.6,3.165,10
+12,"Taille:select:1, Couleur:select:2, Effet:select:0 ","24 (x150):1,Crystal:2,Standard:0",5191380,55.6,2.0265,10
+12,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28 (x96):1,Crystal:2,Standard:0",5191383,58.6,1.08996,10
+12,"Taille:select:1, Couleur:select:2, Effet:select:0 ","32 (x96):1,Crystal:2,Standard:0",5191386,102.6,1.91076,10
+12,"Taille:select:1, Couleur:select:2, Effet:select:0 ","36 (x72):1,Crystal:2,Standard:0",5191388,86.6,1.27596,10
+12,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x30):1,Crystal:2,Standard:0",5191390,0,0,10
+13,"Taille:select:1, Couleur:select:2, Effet:select:0 ","18 (x400):1,Crystal:2,Standard:0",5279198,0,0,10
+14,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x800):1,Crystal:2,Standard:0",5191392,103,14.431,10
+14,"Taille:select:1, Couleur:select:2, Effet:select:0 ","18 (x400):1,Crystal:2,Standard:0",5191394,51,4.811,10
+14,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x280):1,Crystal:2,Standard:0",5191396,27,3.153,10
+14,"Taille:select:1, Couleur:select:2, Effet:select:0 ","22 (x210):1,Crystal:2,Standard:0",5237458,17,1.2147,10
+14,"Taille:select:1, Couleur:select:2, Effet:select:0 ","24 (x150):1,Crystal:2,Standard:0",5191398,0,0,10
+15,"Taille:select:1, Couleur:select:2, Effet:select:0 ","22 (x210):1,Crystal:2,Standard:0",5279209,0,0,10
+16,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x800):1,Crystal:2,Standard:0",5191400,103,11.588,10
+16,"Taille:select:1, Couleur:select:2, Effet:select:0 ","16 (x540):1,Crystal:2,Standard:0",5191402,65,7.5438,10
+16,"Taille:select:1, Couleur:select:2, Effet:select:0 ","18 (x400):1,Crystal:2,Standard:0",5191404,51,4.712,10
+16,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x280):1,Crystal:2,Standard:0",5191406,27,3.0852,10
+16,"Taille:select:1, Couleur:select:2, Effet:select:0 ","22 (x210):1,Crystal:2,Standard:0",5191408,17,1.1469,10
+16,"Taille:select:1, Couleur:select:2, Effet:select:0 ","24 (x150):1,Crystal:2,Standard:0",5191410,0,0,10
+17,"Taille:select:1, Couleur:select:2, Effet:select:0 ","22 (x210):1,Crystal:2,Standard:0",5279215,0,0,10
+18,"Taille:select:1, Couleur:select:2, Effet:select:0 ","81x13 (x48):1,Crystal:2,Standard:0",166099,43,460.4604,10
+18,"Taille:select:1, Couleur:select:2, Effet:select:0 ","145x19 (x24):1,Crystal:2,Standard:0",159885,0,0,10
+18,"Taille:select:1, Couleur:select:2, Effet:select:0 ","75x14 (x48):1,Crystal:2,Standard:0",166098,40,0.1452,10
+18,"Taille:select:1, Couleur:select:2, Effet:select:0 ","137x23 (x24):1,Crystal:2,Standard:0",159882,6,0.06936,10
+19,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x18 (x150):1,Crystal:2,Standard:0",159199,68,1.149,10
+19,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100x18 (x105):1,Crystal:2,Standard:0",159200,0,0,10
+20,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x22 (x125):1,Crystal:2,Standard:0",159204,52,1.07775,10
+20,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x22 (x100):1,Crystal:2,Standard:0",159205,0,0,10
+21,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x22 (x125):1,Crystal:2,Standard:0",159206,52,0.7995,10
+21,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x22 (x100):1,Crystal:2,Standard:0",159207,0,0,10
+22,"Taille:select:1, Couleur:select:2, Effet:select:0 ","52x18 (x180):1,Crystal:2,Standard:0",159049,149,3.516,10
+22,"Taille:select:1, Couleur:select:2, Effet:select:0 ","58x26 (x60):1,Crystal:2,Standard:0",159050,0,0,10
+22,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x30 (x60):1,Crystal:2,Standard:0",159051,53,0.606,10
+23,"Taille:select:1, Couleur:select:2, Effet:select:0 ","52x18 (x180):1,Crystal:2,Standard:0",159889,0,0,10
+24,"Taille:select:1, Couleur:select:2, Effet:select:0 ","90 (x12):1,Crystal:2,Standard:0",159893,0,0,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","5 (x8.4):1,Crystal:2,Standard:0",159894,289,0.13973,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","6 (x7.2):1,Crystal:2,Standard:0",159721,490,0.16699,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","7 (x3.36):1,Crystal:2,Standard:0",159722,198,0.03936,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","8 (x3.36):1,Crystal:2,Standard:0",159895,333,0.0576,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","9 (x3.024):1,Crystal:2,Standard:0",159382,417,0.08232,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","10 (x1.792):1,Crystal:2,Standard:0",159208,251,0.00571,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","10 (x1.792):1,Arctic White:2,Standard:0",5284399,352,0.00071,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","10 (x1.792):1,Jet:2,Standard:0",843179,352,0.00604,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","10 (x1.792):1,Light Topaz:2,Standard:0",651572,352,0.00595,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","10 (x1.792):1,Silk:2,Standard:0",5039148,352,0.00166,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","10 (x1.792):1,Topaz:2,Standard:0",667046,352,0,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","11 (x1.568):1,Crystal:2,Standard:0",159723,307,0.01065,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","12 (x972):1,Crystal:2,Standard:0",159209,188,26.01633,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x720):1,Crystal:2,Standard:0",159383,162,23.01645,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","16 (x384):1,Crystal:2,Standard:0",159896,68,10.14093,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","18 (x320):1,Crystal:2,Standard:0",159689,135,10.53005,10
+25,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Crystal:2,Standard:0",159690,0,2.95725,10
+26,"Taille:select:1, Couleur:select:2, Effet:select:0 ","7 (x3.696):1,Crystal:2,Standard:0",160322,0,0,10
+27,"Taille:select:1, Couleur:select:2, Effet:select:0 ","25x8 (x1.08):1,Crystal:2,Standard:0",159048,0,0,10
+28,"Taille:select:1, Couleur:select:2, Effet:select:0 ","12x12x12 (x480):1,Crystal:2,Standard:0",989475,48,8.715,10
+28,"Taille:select:1, Couleur:select:2, Effet:select:0 ","18x18x18 (x140):1,Crystal:2,Standard:0",989476,0,0,10
+29,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20x11.5 (x480):1,Crystal:2,Standard:0",989473,28,9.48912,10
+29,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x15.5 (x144):1,Crystal:2,Standard:0",989474,0,0,10
+30,"Taille:select:1, Couleur:select:2, Effet:select:0 ","10 (x560):1,Crystal:2,Standard:0",5277694,0,4.1664,10
+30,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x280):1,Crystal:2,Standard:0",5277695,3,0,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Antique Green:2,Standard:0",262022,349.2,3.06956,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Blue Violet:2,Standard:0",627122,349.2,3.20492,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Bordeaux:2,Standard:0",262026,349.2,2.98172,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Crystal:2,Standard:0",249101,283.2,3.06524,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Dark Sapphire:2,Standard:0",943311,349.2,2.96444,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Emerald:2,Standard:0",696437,349.2,3.01628,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Jet:2,Standard:0",650273,349.2,3.09692,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Light Peridot:2,Standard:0",662782,349.2,3.06524,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Light Topaz:2,Standard:0",262025,349.2,3.08828,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Medium Sapphire:2,Standard:0",262023,349.2,3.06956,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Rosaline:2,Standard:0",262024,349.2,3.06956,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Silk:2,Standard:0",5039150,349.2,2.67068,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Topaz:2,Standard:0",627128,349.2,2.5094,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20 (x144):1,Violet:2,Standard:0",695145,349.2,3.14588,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Antique Green:2,Standard:0",262030,189.2,1.13564,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Arctic White:2,Standard:0",5284410,189.2,0.93788,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Blue Violet:2,Standard:0",626459,189.2,1.19036,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Bordeaux:2,Standard:0",262031,189.2,1.1006,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Crystal:2,Standard:0",249102,150.2,1.1342,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Dark Sapphire:2,Standard:0",943312,189.2,1.0934,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Emerald:2,Standard:0",696438,189.2,1.11452,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Jet:2,Standard:0",650274,189.2,1.14716,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Light Peridot:2,Standard:0",662784,189.2,1.1342,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Light Topaz:2,Standard:0",262032,189.2,1.14332,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Medium Sapphire:2,Standard:0",262033,189.2,1.13564,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Rosaline:2,Standard:0",262034,189.2,1.13564,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Silk:2,Standard:0",5039152,189.2,0.97532,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Topaz:2,Standard:0",627134,189.2,0.90956,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Violet:2,Standard:0",695146,189.2,1.16636,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Antique Green:2,Standard:0",262040,297.2,1.4658,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Blue Violet:2,Standard:0",626105,297.2,1.491,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Bordeaux:2,Standard:0",662792,297.2,1.7346,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Crystal:2,Standard:0",249103,241.2,1.7906,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Dark Sapphire:2,Standard:0",1002764,297.2,1.7234,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Emerald:2,Standard:0",696439,297.2,1.7582,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Jet:2,Standard:0",650275,297.2,1.8118,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Light Peridot:2,Standard:0",662785,297.2,1.7906,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Light Topaz:2,Standard:0",262041,297.2,1.8062,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Medium Sapphire:2,Standard:0",262042,297.2,1.5138,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Rosaline:2,Standard:0",262043,297.2,1.5062,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Silk:2,Standard:0",5039155,297.2,1.527,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Topaz:2,Standard:0",626059,297.2,1.4186,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Violet:2,Standard:0",695147,297.2,1.4998,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50 (x12):1,Crystal:2,Standard:0",249104,125.2,0.317,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","60 (x5):1,Crystal:2,Standard:0",250850,77.2,0.0847,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","70 (x1):1,Crystal:2,Standard:0",250851,0,6.2822,10
+31,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100 (x1):1,Crystal:2,Standard:0",250852,235.2,0,10
+32,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x48):1,Crystal:2,Standard:0",5279221,0,0,10
+32,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x40):1,Crystal:2,Standard:0",5279222,104,0.6564,10
+33,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30x24 (x144):1,Crystal:2,Standard:0",159054,118,3.17376,10
+33,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x34 (x48):1,Crystal:2,Standard:0",159211,10,0.4344,10
+33,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x42 (x28):1,Crystal:2,Standard:0",159212,0,0,10
+34,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x16 (x150):1,Crystal:2,Standard:0",159040,0,0,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","18x7.5 (x1.62):1,Crystal:2,Standard:0",159213,692,0,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Antique Green:2,Standard:0",207943,99,7.16628,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Blue Violet:2,Standard:0",941297,99,7.48884,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Bordeaux:2,Standard:0",661906,99,6.95796,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Crystal:2,Standard:0",159214,43,7.1562,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Dark Sapphire:2,Standard:0",943313,99,6.91764,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Jet:2,Standard:0",624856,99,7.23348,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Light Peridot:2,Standard:0",686085,99,7.1562,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Light Topaz:2,Standard:0",247741,99,7.21332,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Medium Sapphire:2,Standard:0",182808,99,7.16628,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Rosaline:2,Standard:0",178664,99,7.16628,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x11 (x336):1,Topaz:2,Standard:0",941296,99,5.829,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x14 (x150):1,Crystal:2,Standard:0",159215,0,2.85588,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x13 (x150):1,Crystal:2,Standard:0",159216,112,3.12138,10
+35,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100x20 (x48):1,Crystal:2,Standard:0",159217,51,0.87156,10
+36,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x14 (x288):1,Crystal:2,Standard:0",159052,0,4.62708,10
+36,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x21 (x90):1,Crystal:2,Standard:0",159220,112,0,10
+37,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20x12 (x600):1,Crystal:2,Standard:0",158737,0,0,10
+38,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x16 (x125):1,Crystal:2,Standard:0",159222,154,2.5088,10
+38,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x20 (x48):1,Crystal:2,Standard:0",159223,0,0,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Antique Green:2,Standard:0",207946,556,10.66294,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Blue Violet:2,Standard:0",687225,556,11.10694,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Bordeaux:2,Standard:0",844235,556,10.37894,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Crystal:2,Standard:0",159224,449,10.65094,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Dark Sapphire:2,Standard:0",943314,556,10.32294,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Emerald:2,Standard:0",844240,556,10.49094,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Jet:2,Standard:0",621615,556,10.75494,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Light Peridot:2,Standard:0",686089,556,10.65094,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Light Topaz:2,Standard:0",941301,556,10.72694,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Medium Sapphire:2,Standard:0",182801,556,10.66294,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Rosaline:2,Standard:0",168696,556,10.66294,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Silk:2,Standard:0",5039179,556,9.35494,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Topaz:2,Standard:0",652323,556,8.82294,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Violet:2,Standard:0",844290,556,10.91494,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Antique Green:2,Standard:0",207947,320,5.01478,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Blue Violet:2,Standard:0",627116,320,5.25286,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Bordeaux:2,Standard:0",661914,320,4.86118,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Crystal:2,Standard:0",159139,251,5.00902,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Dark Sapphire:2,Standard:0",943315,320,4.83238,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Emerald:2,Standard:0",844241,320,4.92262,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Jet:2,Standard:0",297008,320,5.0647,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Light Peridot:2,Standard:0",686090,320,5.00902,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Light Topaz:2,Standard:0",249530,320,5.04934,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Medium Sapphire:2,Standard:0",182802,320,5.01478,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Rosaline:2,Standard:0",168695,320,5.01478,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Silk:2,Standard:0",5039180,320,4.3159,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Topaz:2,Standard:0",627132,320,4.02982,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Violet:2,Standard:0",844291,320,5.14918,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Antique Green:2,Standard:0",207948,141,1.8595,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Blue Violet:2,Standard:0",627115,141,1.9423,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Bordeaux:2,Standard:0",844236,141,1.80622,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Crystal:2,Standard:0",159023,99,1.85734,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Dark Sapphire:2,Standard:0",1002766,141,1.79614,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Emerald:2,Standard:0",941298,141,1.82782,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Jet:2,Standard:0",621616,141,1.87678,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Light Peridot:2,Standard:0",652377,141,1.85734,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Light Topaz:2,Standard:0",249531,141,1.87174,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Medium Sapphire:2,Standard:0",182313,141,1.8595,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Rosaline:2,Standard:0",165199,141,1.8595,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Silk:2,Standard:0",5039181,141,1.61758,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Topaz:2,Standard:0",626242,141,1.51894,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Violet:2,Standard:0",941300,141,1.9063,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x37 (x45):1,Crystal:2,Standard:0",159225,154,1.35289,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x37 (x45):1,Jet:2,Standard:0",660054,207,1.36864,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x37 (x45):1,Rosaline:2,Standard:0",170013,207,1.35469,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x37 (x45):1,Topaz:2,Standard:0",693312,207,1.07794,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x44 (x30):1,Crystal:2,Standard:0",159226,165,1.05994,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","89x52 (x21):1,Crystal:2,Standard:0",196214,124,0.62068,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100x58 (x12):1,Crystal:2,Standard:0",5079537,110,0.28342,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","125x73 (x6):1,Crystal:2,Standard:0",287422,121,0.12814,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","150x88 (x2):1,Crystal:2,Standard:0",5079538,0,0,10
+39,"Taille:select:1, Couleur:select:2, Effet:select:0 ","175x102 (x2):1,Crystal:2,Standard:0",5290983,166,0.00738,10
+40,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x17 (x400):1,Crystal:2,Standard:0",159227,350,9.912,10
+40,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x192):1,Crystal:2,Standard:0",159228,152,4.36752,10
+40,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x72):1,Crystal:2,Standard:0",159042,0,0.89448,10
+40,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x37 (x45):1,Crystal:2,Standard:0",159229,55,0.393,10
+40,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x44 (x30):1,Crystal:2,Standard:0",159230,66,0,10
+41,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x25 (x224):1,Crystal:2,Standard:0",159231,354,7.0872,10
+41,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x34 (x90):1,Crystal:2,Standard:0",159232,264,2.82,10
+41,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x43 (x45):1,Crystal:2,Standard:0",159233,211,1.416,10
+41,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x52 (x24):1,Crystal:2,Standard:0",1102054,94,0.49632,10
+41,"Taille:select:1, Couleur:select:2, Effet:select:0 ","89x60 (x10):1,Crystal:2,Standard:0",1102155,0,0,10
+42,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x224):1,Crystal:2,Standard:0",159901,160,4.1376,10
+42,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x90):1,Crystal:2,Standard:0",159902,0,0,10
+43,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x22 (x224):1,Crystal:2,Standard:0",159692,160,3.76378,10
+43,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x29 (x90):1,Crystal:2,Standard:0",159903,0,0,10
+44,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x31 (x126):1,Crystal:2,Standard:0",160447,0,0,10
+45,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x31 (x126):1,Crystal:2,Standard:0",5279218,0,0,10
+46,"Taille:select:1, Couleur:select:2, Effet:select:0 ","28x14 (x300):1,Crystal:2,Standard:0",678514,161,3.86724,10
+46,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x21 (x96):1,Crystal:2,Standard:0",678518,0,0.2112,10
+46,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x21 (x96):1,Arctic White:2,Standard:0",5284398,39,0,10
+47,"Taille:select:1, Couleur:select:2, Effet:select:0 ","30 (x175):1,Crystal:2,Standard:0",160330,0,0,10
+48,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x27 (x256):1,Crystal:2,Standard:0",159236,319,7.816,10
+48,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x35 (x120):1,Crystal:2,Standard:0",159025,234,3.4364,10
+48,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x43 (x50):1,Crystal:2,Standard:0",159014,104,1.1282,10
+48,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x43 (x50):1,Jet:2,Standard:0",250345,147,1.1407,10
+48,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x52 (x40):1,Crystal:2,Standard:0",159237,178,1.1632,10
+48,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x52 (x40):1,Jet:2,Standard:0",600860,235,1.1788,10
+48,"Taille:select:1, Couleur:select:2, Effet:select:0 ","89x62 (x21):1,Crystal:2,Standard:0",159238,146,0.4961,10
+48,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100x70 (x12):1,Crystal:2,Standard:0",159239,107,0.1592,10
+48,"Taille:select:1, Couleur:select:2, Effet:select:0 ","114x79 (x12):1,Crystal:2,Standard:0",159240,171,0.2672,10
+48,"Taille:select:1, Couleur:select:2, Effet:select:0 ","140x97 (x4):1,Crystal:2,Standard:0",287413,0,0,10
+49,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x50 (x50):1,Crystal:2,Standard:0",159246,121,1.25532,10
+49,"Taille:select:1, Couleur:select:2, Effet:select:0 ","89x59 (x18):1,Crystal:2,Standard:0",159247,0,0,10
+50,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x39 (x36):1,Crystal:2,Standard:0",5034021,7,0.24108,10
+50,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x51 (x30):1,Crystal:2,Standard:0",5034022,34,0.55518,10
+50,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x51 (x30):1,Jet:2,Standard:0",5036880,63,0.56388,10
+50,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x51 (x30):1,Silk:2,Standard:0",5039195,63,0.44658,10
+50,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x61 (x21):1,Crystal:2,Standard:0",5034023,60,0.51855,10
+50,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x61 (x21):1,Jet:2,Standard:0",5036881,94,0.5259,10
+50,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x61 (x21):1,Silk:2,Standard:0",5039196,94,0.4272,10
+50,"Taille:select:1, Couleur:select:2, Effet:select:0 ","89x72 (x8):1,Crystal:2,Standard:0",5034024,0,0.04164,10
+50,"Taille:select:1, Couleur:select:2, Effet:select:0 ","89x72 (x8):1,Jet:2,Standard:0",5036882,22,0.0434,10
+50,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100x81 (x6):1,Crystal:2,Standard:0",5034025,12,0,10
+51,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x30 (x90):1,Crystal:2,Standard:0",159250,44,1.88088,10
+51,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x37 (x60):1,Crystal:2,Standard:0",159251,42,1.76088,10
+51,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x44 (x40):1,Crystal:2,Standard:0",969542,39,1.12088,10
+51,"Taille:select:1, Couleur:select:2, Effet:select:0 ","89x52 (x21):1,Crystal:2,Standard:0",969541,14,0.48486,10
+51,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100x59 (x18):1,Crystal:2,Standard:0",193125,100,0.5082,10
+51,"Taille:select:1, Couleur:select:2, Effet:select:0 ","150x88 (x6):1,Crystal:2,Standard:0",159963,0,0.11472,10
+51,"Taille:select:1, Couleur:select:2, Effet:select:0 ","175x102 (x2):1,Crystal:2,Standard:0",5290982,94,0,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x100):1,Crystal:2,Standard:0",609745,223,3.20532,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x100):1,Crystal:2,Standard:0",986329,223,3.20532,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x34 (x100):1,Crystal:2,Standard:0",678412,367,2.47032,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x18 (x60):1,Crystal:2,Standard:0",1120143,154,1.50012,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x24 (x36):1,Crystal:2,Standard:0",1120146,180,1.18296,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","20x20 (x192):1,Crystal:2,Standard:0",1120194,360,3.79104,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40x40 (x12):1,Crystal:2,Standard:0",1120197,0,0.102,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","60x60 (x5):1,Crystal:2,Standard:0",1120199,9.2,0.04167,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x19x28 (x72):1,Crystal:2,Standard:0",934451,588,1.46088,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x25x35 (x36):1,Crystal:2,Standard:0",986334,329,0.72144,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x30x43 (x20):1,Crystal:2,Standard:0",986335,199,0.37412,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","89x35x50 (x14):1,Crystal:2,Standard:0",995659,232,0.27716,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","150x59x85 (x2):1,Crystal:2,Standard:0",995658,75,0,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","38x25 (x60):1,Crystal:2,Standard:0",1104499,314,0.84852,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x33 (x36):1,Crystal:2,Standard:0",1104500,274,0.63864,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x41 (x12):1,Crystal:2,Standard:0",1104501,68,0.13044,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x50 (x8):1,Crystal:2,Standard:0",1104502,69,0.0904,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x18 (x48):1,Crystal:2,Standard:0",627359,152,0.65472,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x18 (x48):1,Arctic White:2,Standard:0",5284385,199,0.54816,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100x24 (x36):1,Crystal:2,Standard:0",627358,303,0.78912,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x16 (x90):1,Crystal:2,Standard:0",678409,205,1.57032,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100x25 (x36):1,Crystal:2,Standard:0",678411,457,1.044,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x20 (x60):1,Crystal:2,Standard:0",1084841,226,1.50432,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100x25 (x36):1,Crystal:2,Standard:0",1075574,457,1.04112,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x21 (x48):1,Crystal:2,Standard:0",1120184,244,0.89376,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x13 (x96):1,Crystal:2,Standard:0",1165291,65,0.79776,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x19 (x90):1,Crystal:2,Standard:0",1165292,250,1.66932,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x20 (x60):1,Crystal:2,Standard:0",1165293,226,1.26672,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","100x25 (x18):1,Crystal:2,Standard:0",1165290,187,0.15624,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x31 (x60):1,Crystal:2,Standard:0",841556,291,1.16412,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","80x39 (x32):1,Crystal:2,Standard:0",609758,247,0.62368,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x19 (x80):1,Crystal:2,Standard:0",1165297,152,1.18672,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x24 (x45):1,Crystal:2,Standard:0",1165299,113,0.76842,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x29 (x18):1,Crystal:2,Standard:0",1165301,16.1,0.189,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x19 (x80):1,Crystal:2,Standard:0",1165298,152,1.18672,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x24 (x45):1,Crystal:2,Standard:0",1165300,113,0.76842,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x29 (x18):1,Crystal:2,Standard:0",1165302,16.1,0.189,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","80x19 (x48):1,Crystal:2,Standard:0",876931,176,0.67344,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","80x19 (x48):1,Crystal:2,Standard:0",986331,176,0.67344,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","90 (x12):1,Crystal:2,Standard:0",627356,218,0.24672,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x25 (x60):1,Crystal:2,Standard:0",876932,214,0.89412,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x25 (x90):1,Crystal:2,Standard:0",1120173,153,1.64592,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x33 (x60):1,Crystal:2,Standard:0",1120175,213,1.43892,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x33 (x60):1,Arctic White:2,Standard:0",5284396,280,1.19832,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x40 (x30):1,Crystal:2,Standard:0",1120177,161,0.65832,10
+52,"Taille:select:1, Couleur:select:2, Effet:select:0 ","89x47 (x24):1,Crystal:2,Standard:0",1120178,175,0.64776,10
+53,"Taille:select:1, Couleur:select:2, Effet:select:0 ","40 (x100):1,Crystal:2,Standard:0",5279231,0,0,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","62x19 (x40):1,Crystal:2,Standard:0",5297120,110.2,0.4822,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","114x19 (x18):1,Crystal:2,Standard:0",5299879,163.2,0.18808,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","50x34 (x36):1,Crystal:2,Standard:0",5299880,128.2,0.62476,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","89x60 (x4):1,Crystal:2,Standard:0",5299881,0,0,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","14 (x384):1,Crystal:2,Standard:0",5299882,198.2,6.41212,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","16 (x280):1,Crystal:2,Standard:0",5299884,213.2,5.3226,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x22 (x45):1,Crystal:2,Standard:0",5299890,154.2,0.76795,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x22 (x36):1,Crystal:2,Standard:0",5299893,132.2,0.583,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x22 (x45):1,Crystal:2,Standard:0",5299891,154.2,0.89125,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x22 (x36):1,Crystal:2,Standard:0",5299894,132.2,0.583,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","63x22 (x45):1,Crystal:2,Standard:0",5299892,154.2,0.89035,10
+54,"Taille:select:1, Couleur:select:2, Effet:select:0 ","76x22 (x36):1,Crystal:2,Standard:0",5297121,132.2,0.583,10
+55,"Taille:select:1, Couleur:select:2, Effet:select:0 ","45x56 (x1):1,Crystal:2,Standard:0",1141800,0,0.00102,10
+55,"Taille:select:1, Couleur:select:2, Effet:select:0 ","94x117 (x1):1,Crystal:2,Standard:0",975639,69.3,0.0049,10
+56,"Taille:select:1, Couleur:select:2, Effet:select:0 ","129x26 (x12):1,Crystal:2,Standard:0",182595,0,0,10

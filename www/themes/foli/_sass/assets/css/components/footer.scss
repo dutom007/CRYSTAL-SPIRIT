@@ -1,0 +1,238 @@
+// .block_newsletter {
+//   // @include search-box();
+//   font-size: $font-size-sm;
+//   p {
+//     padding-top: $small-space;
+//   }
+  
+//   margin-bottom: rem(10px);
+// }
+@import "theme_variables";
+.block-contact {
+  border-left: $gray-light 2px solid;
+  padding-left: rem(48px);
+  color: $gray;
+  .block-contact-title{
+    color:$gray-darker;
+  }
+}
+.linklist {
+  .blockcms-title a {
+    color:$gray-darker;
+  }
+}
+.account-list a {
+  color: $gray;
+  &:hover {
+    color: $brand-primary;
+  }
+}
+.blockcms-title,
+.myaccount-title,
+.myaccount-title a,
+.block-contact-title {
+  font-weight: 700;
+  font-size: $base-font-size;
+}
+.block-social {
+  text-align: right;
+}
+.block-social li {
+  height: rem(40px);
+  width: rem(40px);
+  background-color: $gray-light;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin: rem(2px);
+  cursor: pointer;
+  &:hover {
+    background-color: $brand-primary;
+  }
+  a {
+    display: block;
+    height: 100%;
+    white-space: nowrap;
+    text-indent: 100%;
+    overflow: hidden;
+    &:hover {
+      color: transparent;
+    }
+  }
+}
+.facebook {
+  background-image: url(../img/facebook.svg);
+  &::before{
+    content:"";
+    background-image: url(../img/facebook-blue.svg);
+  }
+  &.icon-gray {
+    background-image: url(../img/facebook-gray.svg);
+    &:hover {
+      background-image: url(../img/facebook-blue.svg);
+    }
+  }
+}
+.twitter {
+  background-image: url(../img/twitter.svg);
+  &::before{
+    content:"";
+    background-image: url(../img/twitter-blue.svg);
+  }
+  &.icon-gray {
+    background-image: url(../img/twitter-gray.svg);
+    &:hover {
+      background-image: url(../img/twitter-blue.svg);
+    }
+  }
+}
+.rss {
+  background-image: url(../img/rss.svg);
+}
+.youtube {
+  background-image: url(../img/youtube.svg);
+}
+.googleplus {
+  background-image: url(../img/gplus.svg);
+  &::before{
+    content:"";
+    background-image: url(../img/gplus-blue.svg);
+  }
+  &.icon-gray {
+    background-image: url(../img/gplus-gray.svg);
+    &:hover {
+      background-image: url(../img/gplus-blue.svg);
+    }
+  }
+}
+#block_myaccount_infos{
+  .myaccount-title a{
+    color:$gray-darker;
+  }
+}
+.pinterest {
+  background-image: url(../img/pinterest.svg);
+  &::before{
+    content:"";
+    background-image: url(../img/pinterest-blue.svg);
+  }
+  &.icon-gray {
+    background-image: url(../img/pinterest-gray.svg);
+    &:hover {
+      background-image: url(../img/pinterest-blue.svg);
+    }
+  }
+}
+.vimeo {
+  background-image: url(../img/vimeo.svg);
+}
+.instagram {
+  background-image: url(../img/instagram.svg);
+}
+.footer-container {
+  overflow: hidden;
+  li {
+    margin-bottom: rem(5px);
+  }
+  li a {
+    color: $gray-dark;
+    cursor: pointer;
+    font-size: $font-size-sm;
+    &:hover {
+      color: $brand-primary;
+    }
+  }
+  .links {
+    .collapse {
+      display: inherit;
+    }
+  }
+}
+.bo-social-icons{
+  text-align: center;
+  margin: 15px 0 0;
+  li{
+    display: inline-block;
+    a{
+      span{
+        display: none;
+      }
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .footer-container {
+    box-shadow: none;
+    margin-top: 0;
+    .wrapper {
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+    .links {
+      .h3 {
+        line-height: 1.5;
+        font-size: rem(16px);
+      }
+      .title {
+        padding: rem(10px);
+        border-bottom: 1px solid $gray-lighter;
+        cursor: pointer;
+        .collapse-icons .remove {
+          display: none;
+        }
+      }
+      .title[aria-expanded="true"] .collapse-icons {
+        .add {
+          display: none;
+        }
+        .remove {
+          display: block;
+        }
+      }
+      .navbar-toggler {
+        display: inline-block;
+        padding: 0;
+      }
+      .collapse {
+        display: none;
+        &.in {
+          display: block;
+        }
+      }
+      ul {
+        background-color: $gray-lighter;
+        margin-bottom: 0;
+        > li {
+          padding: rem(10px);
+          border-bottom: 1px solid white;
+          font-weight: bold;
+          a {
+            color: $gray-darker;
+          }
+        }
+      }
+    }
+  }
+}
+@include media-breakpoint-down(md) {
+  .block-social {
+    text-align: center;
+  }
+  .block-contact {
+    padding-left: rem(24px);
+  }
+}
+#footer{
+  .nav-links{
+    li{
+      a{
+        color: $theme-color-secondary;
+        font-size: 12px;
+        text-transform: capitalize;
+        &:hover{
+          color: $theme-color;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,183 @@
+
+/* customize for body .bg-primary, .product-price-and-shipping .price-border .price, .grid .product-miniature:hover .highlighted-informations > a:hover, .product-price-and-shipping .price-border:before, .widget-latestblog .blog-content:before, .widget-latestblog .blog-content .readmore .btn:hover, .product-price .current-price > span:before, .product-price .current-price > span, .product-actions .add-to-cart, .bo-social-icons i:hover, .widget-categoriesinfo .grid .item .categories-info .categories-info-img .btn-shopnow:hover, .block_newsletter .btn, .widget-categoriesinfo .grid .item:hover .categories-info .btn-shopnow, .page-header h1:after, .pagination .page-list li.current, .pagination .page-list li:hover, .grid .product-miniature .product-list-actions .add-to-cart, #to_top */ 
+body .bg-primary, .product-price-and-shipping .price-border .price, .grid .product-miniature:hover .highlighted-informations > a:hover, .product-price-and-shipping .price-border:before, .widget-latestblog .blog-content:before, .widget-latestblog .blog-content .readmore .btn:hover, .product-price .current-price > span:before, .product-price .current-price > span, .product-actions .add-to-cart, .bo-social-icons i:hover, .widget-categoriesinfo .grid .item .categories-info .categories-info-img .btn-shopnow:hover, .block_newsletter .btn, .widget-categoriesinfo .grid .item:hover .categories-info .btn-shopnow, .page-header h1:after, .pagination .page-list li.current, .pagination .page-list li:hover, .grid .product-miniature .product-list-actions .add-to-cart, #to_top { 
+background-color:#0289cc 
+} 
+
+/* customize for body .bg-primary:hover, .btn:hover */ 
+body .bg-primary:hover, .btn:hover { 
+background-color:#0088cc 
+} 
+
+/* customize for .grid .product-miniature .highlighted-informations > a, .widget-latestblog .blog-content:hover .readmore .btn, .widget-categoriesinfo .grid .item .categories-info .categories-info-img .btn-shopnow, .block_newsletter .newsletter_form form input:focus, .blockcart .cart-products-count, .grid .product-miniature .product-list-actions > a, .grid .product-miniature:hover .product-list-actions > a:hover */ 
+.grid .product-miniature .highlighted-informations > a, .widget-latestblog .blog-content:hover .readmore .btn, .widget-categoriesinfo .grid .item .categories-info .categories-info-img .btn-shopnow, .block_newsletter .newsletter_form form input:focus, .blockcart .cart-products-count, .grid .product-miniature .product-list-actions > a, .grid .product-miniature:hover .product-list-actions > a:hover { 
+border-color:#0088cc 
+} 
+
+/* customize for .page-header h1, .blockcart .cart-products-count, .grid .product-miniature .highlighted-informations > a, .pagination .page-list li:first-child:hover a, .pagination .page-list li:last-child:hover a */ 
+.page-header h1, .blockcart .cart-products-count, .grid .product-miniature .highlighted-informations > a, .pagination .page-list li:first-child:hover a, .pagination .page-list li:last-child:hover a { 
+color:#0088cc 
+} 
+
+/* customize for body */ 
+body { 
+color:#555555;
+background-image:url(ee8f12);
+font-family:Open Sans;
+font-size:13px 
+} 
+
+/* customize for body a */ 
+body a { 
+color:#555555 
+} 
+
+/* customize for body a:hover, #footer .nav-links li a:hover, .widget-banner .widget-images .banner-content .widget-banner-desc .btn-shopnow:hover, .widget-latestblog .blog-content .readmore .btn, .dropdown:hover .expand-more */ 
+body a:hover, #footer .nav-links li a:hover, .widget-banner .widget-images .banner-content .widget-banner-desc .btn-shopnow:hover, .widget-latestblog .blog-content .readmore .btn, .dropdown:hover .expand-more { 
+color:#0088cc 
+} 
+
+/* customize for #header .header-top, #header, .header-default .header-right, #header .header-right > a */ 
+#header .header-top, #header, .header-default .header-right, #header .header-right > a { 
+color:#555555 
+} 
+
+/* customize for .row-offcanvas .ps-desktop-megamenu .megamenu > li > a .menu-title */ 
+.row-offcanvas .ps-desktop-megamenu .megamenu > li > a .menu-title { 
+color:#555555 
+} 
+
+/* customize for .row-offcanvas .ps-desktop-megamenu .megamenu > li > a .menu-title:hover */ 
+.row-offcanvas .ps-desktop-megamenu .megamenu > li > a .menu-title:hover { 
+color:#ee8f12 
+} 
+
+/* customize for .row-offcanvas .ps-desktop-megamenu .dropdown-menu */ 
+.row-offcanvas .ps-desktop-megamenu .dropdown-menu { 
+background-color:#ffffff 
+} 
+
+/* customize for .row-offcanvas .megamenu .widget .title_block */ 
+.row-offcanvas .megamenu .widget .title_block { 
+color:#000000 
+} 
+
+/* customize for .row-offcanvas .pts-megamenu .dropdown-menu */ 
+.row-offcanvas .pts-megamenu .dropdown-menu { 
+color:#555555 
+} 
+
+/* customize for .row-offcanvas .dropdown-menu li a */ 
+.row-offcanvas .dropdown-menu li a { 
+color:#555555 
+} 
+
+/* customize for .row-offcanvas .dropdown-menu li a:hover */ 
+.row-offcanvas .dropdown-menu li a:hover { 
+color:#ee8f12 
+} 
+
+/* customize for .ps_breadcumb */ 
+.ps_breadcumb { 
+background-color:#f2f2f2;
+background-image:url(../../img/patterns/pattern2.png) 
+} 
+
+/* customize for .ps_breadcumb, .ps_breadcumb .breadcrumb li a */ 
+.ps_breadcumb, .ps_breadcumb .breadcrumb li a { 
+color:#3f69b0 
+} 
+
+/* customize for .ps_breadcumb .breadcrumb li a:hover */ 
+.ps_breadcumb .breadcrumb li a:hover { 
+color:#c24489 
+} 
+
+/* customize for .row-offcanvas .footer-bottom */ 
+.row-offcanvas .footer-bottom { 
+background-color:#303030;
+color:#ffffff;
+background-image:url(../../img/patterns/pattern2.png) 
+} 
+
+/* customize for .row-offcanvas .footer-bottom a */ 
+.row-offcanvas .footer-bottom a { 
+color:#ffffff 
+} 
+
+/* customize for .row-offcanvas .footer-bottom .block .title_block  */ 
+.row-offcanvas .footer-bottom .block .title_block  { 
+color:#ffffff 
+} 
+
+/* customize for .row-offcanvas .pts-copyright */ 
+.row-offcanvas .pts-copyright { 
+background-image:url(555555) 
+} 
+
+/* customize for .row-offcanvas .product-miniature */ 
+.row-offcanvas .product-miniature { 
+background-color:#ffffff 
+} 
+
+/* customize for .row-offcanvas .product-miniature a:not(.quick-view) */ 
+.row-offcanvas .product-miniature a:not(.quick-view) { 
+color:#363636 
+} 
+
+/* customize for .row-offcanvas .product-miniature a:hover, .grid .product-miniature:hover .product-title a:hover */ 
+.row-offcanvas .product-miniature a:hover, .grid .product-miniature:hover .product-title a:hover { 
+color:#ee8f12 
+} 
+
+/* customize for .row-offcanvas .product-miniature .product-price-and-shipping .price  */ 
+.row-offcanvas .product-miniature .product-price-and-shipping .price  { 
+color:#ffffff 
+} 
+
+/* customize for .row-offcanvas .product-miniature .product-price-and-shipping .regular-price */ 
+.row-offcanvas .product-miniature .product-price-and-shipping .regular-price { 
+color:#b3094a 
+} 
+
+/* customize for .row-offcanvas .sidebar .block .block_content  */ 
+.row-offcanvas .sidebar .block .block_content  { 
+background-color:#ffffff 
+} 
+
+/* customize for .row-offcanvas .sidebar .block .title-sidebar */ 
+.row-offcanvas .sidebar .block .title-sidebar { 
+background-color:#f5872d;
+font-family:Open Sans Condensed;
+font-size:18px 
+} 
+
+/* customize for .row-offcanvas .sidebar .block .title-sidebar, .title-sidebar, #search_filters .facet .facet-title */ 
+.row-offcanvas .sidebar .block .title-sidebar, .title-sidebar, #search_filters .facet .facet-title { 
+color:#ffffff 
+} 
+
+/* customize for .row-offcanvas .sidebar .block .block_content */ 
+.row-offcanvas .sidebar .block .block_content { 
+color:#555555 
+} 
+
+/* customize for .row-offcanvas .sidebar .block .block_content .name a, .row-offcanvas .sidebar .block .block_content a, #search_filters .facet .facet-label a */ 
+.row-offcanvas .sidebar .block .block_content .name a, .row-offcanvas .sidebar .block .block_content a, #search_filters .facet .facet-label a { 
+color:#555555 
+} 
+
+/* customize for .row-offcanvas .sidebar .block .block_content .name a:hover, .row-offcanvas .sidebar .block .block_content a:hover */ 
+.row-offcanvas .sidebar .block .block_content .name a:hover, .row-offcanvas .sidebar .block .block_content a:hover { 
+color:#ee8f12 
+} 
+
+/* customize for .block .title_block */ 
+.block .title_block { 
+font-family:Oswald 
+} 
+
+/* customize for h2, h3, h4, h5, h6, h7 */ 
+h2, h3, h4, h5, h6, h7 { 
+font-family:inherit 
+} 

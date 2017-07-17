@@ -1,0 +1,9 @@
+Bonjour {lastname} {firstname},
+
+
+Vous avez récemment enregistré une adresse sur notre boutique ({shop_name}) et celle-ci viens d'être validée par notre équipe.
+
+
+Félicitation et à très bientôt sur {shop_name}
+
+{shop_name} réalisé par www.coeos.pro

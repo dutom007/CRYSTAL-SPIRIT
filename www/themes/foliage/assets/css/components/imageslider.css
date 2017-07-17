@@ -1,0 +1,138 @@
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/**
+ * Product Item Selectors
+ */
+/***********************************************************************/
+/* RIGHT TO LEFT */
+/* BACKGROUND GRADIENT */
+/* BACKGROUND RADIAL */
+/* BACKGROUND SIZE */
+/* BORDER RADIUS */
+/* DOUBLE BORDERS */
+/* TRIPLE BORDERS */
+/* FONT FACE */
+/* OPACITY */
+/* TEXT SHADOW */
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/**parallax**/
+/**absolute**/
+/*  
+ * LAYOUT VARIABLES 
+ */
+/** CHECKOUT BY STEP */
+/* --- SCSS For Accordion --- */
+/* --- SCSS For Breadcrumb --- */
+/* --- SCSS For Buttons --- */
+/* --- SCSS For Call-to-action --- */
+/* --- SCSS For Content-slider --- */
+/*  */
+/* carousel-controls-v1 */
+/* carousel-controls-v2 */
+/* carousel-controls-v3 */
+/* Navigation Styles */
+/* carousel-indicators-v1 */
+/* carousel-indicators-v2 */
+/* carousel-indicators-v3 */
+/* carousel-indicators-v4 */
+/* carousel-indicators-v5 */
+/* carousel-indicators-v6 */
+/* --- SCSS For Counters --- */
+/* --- SCSS For Heading --- */
+/* --- SCSS For Icon-box --- */
+/* --- SCSS For Interactive-banner --- */
+/* --- SCSS For Latest-posts --- */
+/* latest posts */
+/* --- SCSS For List --- */
+/* variables for list */
+/* variables for list light */
+/* --- SCSS For Message --- */
+/* --- SCSS For Newsletter --- */
+/* --- SCSS For Piechart --- */
+/* --- SCSS For Pricing --- */
+/* --- SCSS For Process-steps --- */
+/* process-steps */
+/* --- SCSS For Service --- */
+/* variables for tab style1 using as base of tab */
+/* --- SCSS For Style-icon --- */
+/* Variables icons default */
+/* Variables icons bodered */
+/* Variables icons darker */
+/* Variables icons light */
+/* Variables icons plain */
+/* Variables icons for light style */
+/* Variables icons outline */
+/* Variables icons inverse */
+/* --- SCSS For Table --- */
+/* --- SCSS For Tabs --- */
+/* variables for tab style1 using as base of tab */
+/* tab style version 4 */
+/* tab style version 5 */
+/* tab style version 6 */
+/* --- SCSS For Testimonials --- */
+/* testimonials default */
+/* testimonials-v1 */
+/* testimonials light */
+/* --- SCSS For Typography --- */
+/* panel */
+.carousel {
+  box-shadow: 1px 1px 7px 0 rgba(0, 0, 0, 0.15);
+  margin-bottom: 1.84615rem;
+}
+.carousel .direction {
+  z-index: auto;
+}
+.carousel .carousel-inner {
+  height: 340px;
+}
+.carousel .carousel-item {
+  height: 100%;
+}
+.carousel .carousel-item img {
+  width: 100%;
+  margin-left: 0;
+}
+.carousel .carousel-item .caption {
+  position: absolute;
+  bottom: 28px;
+  left: 90px;
+  color: white;
+  max-width: 340px;
+}
+.carousel .carousel-item .caption .caption-description p {
+  color: white;
+}
+.carousel .carousel-control {
+  opacity: 1;
+}
+.carousel .carousel-control .icon-next::before,
+.carousel .carousel-control .icon-prev::before {
+  content: "";
+}
+.carousel .carousel-control .icon-next i,
+.carousel .carousel-control .icon-prev i {
+  font-size: 3.84615rem;
+  color: white;
+}
+.carousel .carousel-control .icon-next:hover i,
+.carousel .carousel-control .icon-prev:hover i {
+  color: #293f85;
+}
+.carousel .carousel-control .icon-prev {
+  left: 1.23077rem;
+}
+.carousel .carousel-control .icon-next {
+  right: 2.46154rem;
+}
+.carousel .carousel-control.left, .carousel .carousel-control.right {
+  background: none;
+}

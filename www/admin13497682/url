@@ -1,0 +1,2 @@
+<script type="text/javascript"> alert("There is no download for this product (#2)");
+	window.location.href = "/"; </script>

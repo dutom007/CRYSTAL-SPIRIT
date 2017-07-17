@@ -1,0 +1,55 @@
+
+
+//-------- BORDERS
+$base-border-color:					#e4e9ef !default;
+$base-border-arrow:                 $white!default;
+$base-border-line:                  #ddd!default;
+$main-border:						1px solid $base-border-color!default;
+$main-boder-hover:                  1px solid $theme-color-secondary!default;
+$dark-border-color:					#333!default;
+$light-border-color:				$black!default;
+$homepage-footer-border:            #d9d9d9!default;         
+$thumb-border-color:                $base-border-color!default; 
+$headings-border-color:				$theme-color-secondary!default;     // using variable  for ThemeSkin 	
+
+
+
+//--------- COLORS
+$base-body-color:                   $gray!default;
+$base-text-color:                   $base-body-color!default;
+$base-heading-color:								#000!default;
+$block-heading-color:               $base-heading-color!default;
+$base-title-color:									$base-text-color!default;
+$light-text-color:                  $black!default;
+$link-color:												$link-color!default;
+$description-color:									#999!default;
+$text-color:							#999!default;
+
+
+
+		
+//-------------- Grid/List vars
+$GL-text-color:								#808080!default;
+$GL-title-color:							$base-text-color!default;
+$GL-icon-color:								$link-color!default;
+$GL-icon-color-hover:						$base-text-color!default;
+		
+
+
+
+
+
+
+/** CHECKOUT BY STEP */
+$checkout-step-container-border : $brand-danger !default;
+$checkout-step-container-margin : 30px !default;
+$checkout-step-font-size:18px !default;
+$checkout-step-font-color : $black !default;
+$checkout-step-button-bg: $brand-info !default; 
+$checkout-step-button-padding: 10px 15px;
+$checkout-step-button-active-bg: $white !default;
+$checkout-step-button-active-font-color: $brand-success !default;
+$checkout-step-button-current-font-color: $brand-danger !default;
+
+$checkout-caret-color: #FFF !default;
+$checkout-caret-width-base: 2px !default;

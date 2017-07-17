@@ -1,0 +1,283 @@
+/**	HTML Elements
+	Declarations for commonly used HTML elements.
+*/
+body, table {
+	background-color: #ffffff;
+	font-size: 11px;
+	font-family: 'Arial', sans-serif;
+	color: #000000;
+	margin: 0px;
+	border-style: none;
+	border-width: 0px;
+	scrollbar-3dlight-color: #9095b0;
+	scrollbar-arrow-color: #9095b0;
+	scrollbar-darkshadow-color: #9095b0;
+	scrollbar-face-color: #ffffff;
+	scrollbar-highlight-color: #ffffff;
+	scrollbar-shadow-color: #ffffff;
+	scrollbar-track-color: #ffffff;
+}
+
+strong {
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+a {
+	color: #9095b0;
+	text-decoration: underline;
+}
+
+h1 {
+	font-family: 'Blizz', 'Arial', sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	color: #9095b0;
+	margin: 0px;
+}
+
+input, select, button {
+	color: #000000;
+	background-color: #ffffff;
+	border: 1px solid #9095b0;
+}
+
+/**	Classes
+*/
+h1.CpfOverview {
+	font-family: 'Arial', sans-serif;
+	font-size: 11px;
+}
+
+h1.CpfPromobox {
+	font-family: 'Arial', sans-serif;
+	font-size: 11px;
+}
+
+a.CpfMore {
+	color: #000000;
+	font-weight: bold;
+}
+
+a.CpfKeywordIndex {
+	color: #000000;
+}
+
+td.CpfOverviewCaption {
+	text-align: left;
+	width: 175px;
+}
+
+/** Color Chart - begin */
+td.CpfColorChartMenu {
+	margin:0px;
+	border:0 solid #ffffff;
+    padding-left:4px;
+    width:125px;
+    background-image:url(color_chart/images/cc_menu_inactive.gif);
+    cursor:hand;
+}
+
+td.CpfColorChartSpacer {
+	width:1px;
+	background-color:#ffffff;
+}
+
+td#CpfColorChartActiveMenu {
+    background-image:url(color_chart/images/cc_menu_active.gif);
+    cursor:default;
+}
+
+td#CpfColorChartEmptyMenu {
+	cursor:default;
+}
+
+td.CpfColorChartItemText {
+	color:#656679;
+	width:120px;
+}
+
+td.CpfColorChartItemImage {
+	color:#656679;
+	width:50px;
+	text-align:right;
+	height: 40px;
+}
+
+td.CpfColorChartBigItemHeader {
+	color:#000000;
+	font-weight:bold;
+	line-height:40px;
+}
+
+td.CpfColorChartBigItemText {
+	color:#656679;
+	width:120px;
+	vertical-align:top;
+}
+
+td.CpfColorChartBigItemImage {
+	color:#656679;
+	width:50px;
+	text-align:right;
+}
+
+td.CpfColorChartBigItemSpacer {
+	width:10px;
+}
+
+td.CpfColorChartItemHeader, .CpfKeywordHeadline {
+	color:#000000;
+	font-weight:bold;
+	padding-left:20px;
+}
+
+#CpfColorChartFootNote {
+	color:#656679;
+	margin-left:104px;
+	margin-top:18px;
+	padding-bottom:20px;
+}
+
+/** Color Chart - end */
+
+.CpfHeadline {
+	margin: 0px;
+	margin-top: 23px;
+	width: 100%;
+}
+
+/** Matrix - begin */
+.CpfMatrixArticleImg {
+	width: 150px;
+}
+
+.CpfMatrixOtherSizes {
+	width: 100px;
+	vertical-align: top;
+}
+
+.CpfMatrixColHeader {
+    font-weight: bold;
+    text-align: center;
+    vertical-align: top;
+    border: 2px solid #ffffff;
+	border-right-style: none;
+	border-bottom-style: none;
+}
+
+.CpfMatrixLineHeader {
+    font-weight: bold;
+    text-align: right;
+    vertical-align: top;
+    width: 160px;
+    border: 2px solid #ffffff;
+}
+
+.CpfMatrixLineHeaderExclusive {
+    font-weight: bold;
+    text-align: right;
+    vertical-align: top;
+    width: 160px;
+    color: #9095b0;
+    border: 2px solid #ffffff;
+}
+
+.CpfMatrixDataNode {
+	width: 82px;
+	text-align: center;
+	border: 2px solid #b4b4b4;
+	border-right-style: none;
+	border-bottom-style: none;
+}
+
+.CpfMatrixDataNodeBottom {
+	width: 82px;
+	text-align: center;
+	border-top: 2px solid #b4b4b4;
+}
+
+.CpfMatrixDataNodeRight {
+	width: 82px;
+	text-align: center;
+	border: 2px solid #b4b4b4;
+	border-bottom-style: none;
+
+}
+
+.CpfMatrixDataCell {
+	width: 82px;
+	text-align: center;
+	border: 2px solid #b4b4b4;
+}
+
+/** Matrix - end */
+
+/** List - begin */
+
+.CpfListHeader {
+	font-weight: bold;
+}
+
+.CpfListOddCell {
+	background-color: #ffffff;
+}
+
+.CpfListEvenCell {
+	background-color: #b4b4b4;
+}
+
+/** List - end */
+
+/** FIP Details */
+.CpfProductDetails {
+	background-color: #b4b4b4;
+	color: #ffffff;
+}
+
+.CpfProductDetailContainer {
+	background-color: #b4b4b4;
+	padding: 20px;
+	width: 600px;
+	margin-left:20px;
+	margin-top:20px;
+}
+
+.CpfProductDetailKey {
+	width: 150px;
+}
+
+.CpfProductDetailButtonContainer {
+	text-align: right;
+	width: 600px;
+	margin-left:20px;
+	margin-top:20px;
+}
+
+.CpfProductDetailHeadColumn {
+    text-align: center;
+    background-color: #656679;
+}
+
+.CpfErrorText {
+	width: 100%;
+	color: #ff0000;
+	font-weight: bold;
+	text-align: center;
+}
+
+/** Unique Elements
+*/
+#CpfBreadCrumb {
+	color: #9095b0;
+	font-size: 12px;
+	margin-top: 12px;
+	margin-bottom: 0px;
+}
+
+#CpfInfoBar {
+	color: #9095b0;
+	font-size: 12px;
+	text-align: right;
+	padding-right: 50px;
+}

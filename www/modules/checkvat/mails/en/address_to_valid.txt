@@ -1,0 +1,18 @@
+Bonjour {employee_lastname} {employee_firstname},
+
+Le client {lastname} {firstname} viens d'enregistrer une nouvelle adresse :{alias}
+{company}
+{lastname}
+{firstname}
+{address1}
+{address2}
+{postcode}
+{city}
+{other}
+{phone}
+{phone_mobile}
+{vat_number}
+
+Si vous souhaitez la valider, allez sur {shop_url}/modules/checkvat/validation.php?token={token}&id_addresse={id_address}
+
+Si vous souhaitez supprimer le numéro de TVA de ce client, allez sur {shop_url}/modules/checkvat/takeoff.php?token={token}&id_addresse={id_address}</p>

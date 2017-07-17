@@ -1,0 +1,102 @@
+/* For normal computer px: */
+body {
+    width:100%;
+}
+
+.vignettes {
+float : left;
+list-style-type: none;
+}
+
+.colorcharts_conteneur {
+	 display: flex;
+	 flex-wrap : wrap;
+	 justify-content:space-around;
+	 align-items:flex-start;	
+	 
+	 
+}
+
+.colorcharts_color {
+	width:75.0%;
+	display: flex;
+    flex-wrap: wrap;
+	
+}
+.colorcharts_color .colorcharts_element{
+	width:33.33%
+}
+
+.colorcharts_effets {
+	width:25.0%
+	
+}
+
+.colorcharts_effets .colorcharts_element {
+	width:100%;
+	
+}
+
+
+.title {
+	width:100%;
+	
+}
+
+.element {
+	height:120px;
+}
+
+
+
+
+
+/* For width 960 and larger: */
+@media only screen and (max-width: 960px) {
+    
+    .colorcharts_color {
+		width:66.66%;
+	}
+	
+	.colorcharts_color .colorcharts_element{
+		width:50%;
+	}
+
+	.colorcharts_effets {
+		width:33.33%;
+	}
+		
+	
+}
+
+
+/* For width 760 and larger: */
+@media only screen and (max-width: 760px) {
+    
+    .colorcharts_color {
+		width:50%;
+	}
+	
+	.colorcharts_color .colorcharts_element{
+		width:100%;
+	}
+
+	.colorcharts_effets {
+		width:50%;
+	}
+		
+	
+}
+
+
+/* For width 480	 and larger: */
+@media only screen and (max-width: 480px) {
+    
+    .colorcharts_color,
+	.colorcharts_color .colorcharts_element,
+	.colorcharts_effets {
+		width:100%;
+	}
+		
+	
+}

@@ -1,0 +1,154 @@
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/**
+ * Product Item Selectors
+ */
+/***********************************************************************/
+/* RIGHT TO LEFT */
+/* BACKGROUND GRADIENT */
+/* BACKGROUND RADIAL */
+/* BACKGROUND SIZE */
+/* BORDER RADIUS */
+/* DOUBLE BORDERS */
+/* TRIPLE BORDERS */
+/* FONT FACE */
+/* OPACITY */
+/* TEXT SHADOW */
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/**parallax**/
+/**absolute**/
+/*  
+ * LAYOUT VARIABLES 
+ */
+/** CHECKOUT BY STEP */
+/* --- SCSS For Accordion --- */
+/* --- SCSS For Breadcrumb --- */
+/* --- SCSS For Buttons --- */
+/* --- SCSS For Call-to-action --- */
+/* --- SCSS For Content-slider --- */
+/*  */
+/* carousel-controls-v1 */
+/* carousel-controls-v2 */
+/* carousel-controls-v3 */
+/* Navigation Styles */
+/* carousel-indicators-v1 */
+/* carousel-indicators-v2 */
+/* carousel-indicators-v3 */
+/* carousel-indicators-v4 */
+/* carousel-indicators-v5 */
+/* carousel-indicators-v6 */
+/* --- SCSS For Counters --- */
+/* --- SCSS For Heading --- */
+/* --- SCSS For Icon-box --- */
+/* --- SCSS For Interactive-banner --- */
+/* --- SCSS For Latest-posts --- */
+/* latest posts */
+/* --- SCSS For List --- */
+/* variables for list */
+/* variables for list light */
+/* --- SCSS For Message --- */
+/* --- SCSS For Newsletter --- */
+/* --- SCSS For Piechart --- */
+/* --- SCSS For Pricing --- */
+/* --- SCSS For Process-steps --- */
+/* process-steps */
+/* --- SCSS For Service --- */
+/* variables for tab style1 using as base of tab */
+/* --- SCSS For Style-icon --- */
+/* Variables icons default */
+/* Variables icons bodered */
+/* Variables icons darker */
+/* Variables icons light */
+/* Variables icons plain */
+/* Variables icons for light style */
+/* Variables icons outline */
+/* Variables icons inverse */
+/* --- SCSS For Table --- */
+/* --- SCSS For Tabs --- */
+/* variables for tab style1 using as base of tab */
+/* tab style version 4 */
+/* tab style version 5 */
+/* tab style version 6 */
+/* --- SCSS For Testimonials --- */
+/* testimonials default */
+/* testimonials-v1 */
+/* testimonials light */
+/* --- SCSS For Typography --- */
+/* panel */
+.quickview .modal-dialog {
+  width: calc(100% - 30px);
+  max-width: 78.76923rem;
+}
+.quickview .modal-content {
+  background: white;
+  min-height: 34.61538rem;
+}
+.quickview .modal-header {
+  border: none;
+  padding: 0.76923rem;
+}
+.quickview .modal-body {
+  min-height: 29.23077rem;
+}
+.quickview .modal-footer {
+  border-top: 1px solid rgba(172, 170, 166, 0.3);
+}
+.quickview .layer {
+  display: none;
+}
+.quickview .product-cover img {
+  width: 95%;
+}
+.quickview .images-container {
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  position: absolute;
+  z-index: 1;
+  min-height: 26.92308rem;
+}
+.quickview .images-container .product-images > li.thumb-container > .thumb {
+  width: 6.07692rem;
+  margin-bottom: 1rem;
+  background: white;
+}
+.quickview .mask {
+  width: 33%;
+  height: 27.69231rem;
+  overflow: hidden;
+  margin-left: 0.76923rem;
+}
+.quickview .arrows {
+  position: absolute;
+  top: 0;
+  height: 27.69231rem;
+  right: 6.15385rem;
+  z-index: 0;
+}
+.quickview .arrows .arrow-up {
+  margin-top: -3.84615rem;
+  cursor: pointer;
+  opacity: 0.2;
+}
+.quickview .arrows .arrow-down {
+  position: absolute;
+  bottom: -2.30769rem;
+  cursor: pointer;
+}
+.quickview .social-sharing {
+  margin-top: 0;
+  margin-left: 3.07692rem;
+}

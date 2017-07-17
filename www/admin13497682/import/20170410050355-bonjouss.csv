@@ -1,0 +1,57 @@
+id,name,description,prix,poids
+1,8044,"Bobeche / 4-hole",281,20.88
+2,8048,"Bobeche / 5-hole",206,8.502
+3,8060,"Center Part",160,27.72
+4,8061,"Center Part",126,44.8
+5,8063,"Center Part",163,8.572
+6,8065,"Center Part",450,132.48
+7,8114,"Octagon Lily / No hole",149,2.206
+8,8115,"Octagon Lily / 1-hole",75.1,2.55
+9,8116,"Octagon Lily / 2-hole",75.1,2.55
+10,8117,"Octagon Lily / 3-hole",303,2.55
+11,8118,"Octagon Lily / 4-hole",303,2.55
+12,8124,"Square Stone / 4-hole",75.4,44.7
+13,8124/G,"/G Square Stone / 4-hole",212,713.2
+14,8125,"Square Stone",131,243.3
+15,8125/G,"/G Square Stone",173,364.77
+16,8126,"Square Stone / 2-hole",131,248.4
+17,8126/G,"/G Square Stone / 2-hole",173,361.2
+18,8269,"Drop Combination",128,33.96
+19,8305,"Prism / 1-hole",494,359.1
+20,8321,"Prism / 1-hole",442,320.6
+21,8322,"Prism / 2-hole",442,338.8
+22,8450,"Coffin Stone / 2-hole",155,102
+23,8451,"Coffin Stone / 1-hole",304,463.14
+24,8470,Bobeche,281,45.6
+25,8502,Bead,233,2.355
+26,8505,Bead,476,5.268
+27,8543,"Long hole Bead",604,2.38
+28,8546,"Dice Bead",150,338.1
+29,8547,"Vibrant Bead",284,320.688
+30,8548,Cube,138,763.28
+31,8558,"Ball 224 Facets (20 mm - 168 Facets)",19.8,1.78
+32,8558/G,"/G Ball 224 Facets (20 mm - 168 Facets)",199,115.2
+33,8560,"Cone Stone",162,73.584
+34,8601,Drop,123,294
+35,8611,Drop,212,2.412
+36,8621,Drop,218,261.9
+37,8641,Drop,373,1374.6
+38,8671,"Hexagonal Prism",227,69.12
+39,8721,"Pear Shape",87,2.906
+40,8731,"Pear Shape",186,87.6
+41,8741,"Pear Shape",121,20.4
+42,8745,"Oval Pear Shape / 1-hole",237,244.8
+43,8746,"Oval Pear Shape / 2-hole",237,269.19
+44,8755,"Kite Pear Shape",420,364.77
+45,8755/G,"/G Kite Pear Shape",485,364.77
+46,8806,"New Leaf",174,125.376
+47,8833,"Triangle /3-hole",259,229.25
+48,8901,Pendeloque,85,6.88
+49,8904,Pendeloque,169,32.418
+50,8908,"Arabesque Pendeloque",89,12.972
+51,8930,Pendeloque,159,2.712
+52,8950,"Bird Wing",63,3.168
+53,8950/G,"/G Sun/1-hole",332,323.7
+54,8951,"Glaciarium Prism Frame/ 2-hole By F&S",47.8,5.06
+55,8983,"Moravian Star",44.7,0
+56,8984,Finial,234,18.9

@@ -1,0 +1,2 @@
+*ERROR* 	v1.7.1.1	2017/05/16 - 04:23:01: No template found for checkout/checkout at line 68 in file classes/Smarty/TemplateFinder.php
+*ERROR* 	v1.7.1.1	2017/05/16 - 09:50:00: No template found for preview.tpl at line 68 in file classes/Smarty/TemplateFinder.php

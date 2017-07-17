@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<themeeditor>
+	<version value="1.4">
+	<ccc available="true" />
+	<guest_checkout available="true" />
+	<one_page_checkout available="true" />
+	<store_locator available="true" />
+	</version>
+	<author>Prestabrain</author>
+<name>Live Theme Editor</name>	
+<customization>
+	<global>
+			<name>Colors</name>
+			<items>
+				<header>Body Content</header>
+				<match>body</match>
+				<item>
+					<type>text</type>
+					<label>Main Color</label>
+					<selector>body .bg-primary, .product-price-and-shipping .price-border .price, .grid .product-miniature:hover .highlighted-informations > a:hover, .product-price-and-shipping .price-border:before, .widget-latestblog .blog-content:before, .widget-latestblog .blog-content .readmore .btn:hover, .product-price .current-price > span:before, .product-price .current-price > span, .product-actions .add-to-cart, .bo-social-icons i:hover, .widget-categoriesinfo .grid .item .categories-info .categories-info-img .btn-shopnow:hover, .block_newsletter .btn, .widget-categoriesinfo .grid .item:hover .categories-info .btn-shopnow, .page-header h1:after, .pagination .page-list li.current, .pagination .page-list li:hover, .grid .product-miniature .product-list-actions .add-to-cart, #to_top</selector>
+					<attrs>background-color</attrs>
+				</item> 
+				<item>
+					<type>text</type>
+					<label>Main Color Hover</label>
+					<selector>body .bg-primary:hover, .btn:hover</selector>
+					<attrs>background-color</attrs>
+				</item> 
+				<item>
+					<type>text</type>
+					<label>Border Color Active</label>
+					<selector>.grid .product-miniature .highlighted-informations > a, .widget-latestblog .blog-content:hover .readmore .btn, .widget-categoriesinfo .grid .item .categories-info .categories-info-img .btn-shopnow, .block_newsletter .newsletter_form form input:focus, .blockcart .cart-products-count, .grid .product-miniature .product-list-actions > a, .grid .product-miniature:hover .product-list-actions > a:hover</selector>
+					<attrs>border-color</attrs>
+				</item>
+				<item>
+					<type>text</type>
+					<label>Color Text Active</label>
+					<selector>.page-header h1, .blockcart .cart-products-count, .grid .product-miniature .highlighted-informations > a, .pagination .page-list li:first-child:hover a, .pagination .page-list li:last-child:hover a</selector>
+					<attrs>color</attrs>
+				</item>
+
+				<item>
+					<type>text</type>
+					<label>Color Text</label>
+					<selector>body</selector>
+					<attrs>color</attrs>
+				</item> 
+				
+				<item>
+					<type>text</type>
+					<label>Link Color</label>
+					<selector>body a</selector>
+					<attrs>color</attrs>
+				</item> 
+				<item>
+					<type>text</type>
+					<label>Link Hover Color</label>
+					<selector>body a:hover, #footer .nav-links li a:hover, .widget-banner .widget-images .banner-content .widget-banner-desc .btn-shopnow:hover, .widget-latestblog .blog-content .readmore .btn, .dropdown:hover .expand-more</selector>
+					<attrs>color</attrs>
+				</item> 
+	 			<item>
+					<type>text</type>
+					<label>Background Body Color</label>
+					<selector>body</selector>
+					<attrs>background-color</attrs>
+				</item>
+
+				<item>
+					<type>image</type>
+					<label>Background Body Image</label>
+					<selector>body</selector>
+					<attrs>background-image</attrs>
+				</item>
+
+		</items>
+
+		<items>
+			<header>TopBar</header>
+			<match>header-nav</match>
+			<item>
+				<type>image</type>
+				<label>Background Image</label>
+				<selector>#header .header-nav</selector>
+				<attrs>background-image</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Background Color</label>
+				<selector>#header .header-nav</selector>
+				<attrs>background-color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Text Color</label>
+				<selector>#header .header-nav</selector>
+				<attrs>color</attrs>
+			</item>  
+		 	<item>
+				<type>text</type>
+				<label>Color Link</label>
+				<selector>#header .header-nav a</selector>
+				<attrs>color</attrs>
+			</item> 
+		</items>
+	 <items>
+			<header>Header</header>
+			<match>header-top</match>
+			<item>
+				<type>text</type>
+				<label>Background Color</label>
+				<selector>#header .header-top</selector>
+				<attrs>background-color</attrs>
+			</item>
+
+			<item>
+				<type>image</type>
+				<label>Background Image</label>
+				<selector>#header .header-top</selector>
+				<attrs>background-image</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Text Color</label>
+				<selector>#header .header-top, #header, .header-default .header-right, #header .header-right > a</selector>
+				<attrs>color</attrs>
+			</item>		
+			<item>
+				<type>text</type>
+				<label>Links Color</label>
+				<selector>#header .header-top a</selector>
+				<attrs>color</attrs>
+			</item>
+		</items>
+		<items>
+			<header>MainMenu</header>
+			<match>ps-desktop-megamenu</match>
+			<item>
+				<type>text</type>
+				<label>Background Color</label>
+				<selector>.row-offcanvas .ps-desktop-megamenu</selector>
+				<attrs>background-color</attrs>
+			</item> 
+
+			<item>
+				<type>image</type>
+				<label>Background Image</label>
+				<selector>.row-offcanvas .ps-desktop-megamenu</selector>
+				<attrs>background-image</attrs>
+			</item>
+		 		 	
+			<item>
+				<type>text</type>
+				<label>Color Link Menu</label>
+				<selector>.row-offcanvas .ps-desktop-megamenu .megamenu > li > a .menu-title</selector>
+				<attrs>color</attrs>
+			</item> 
+			<item>
+				<type>text</type>
+				<label>Color Link Menu Hover</label>
+				<selector>.row-offcanvas .ps-desktop-megamenu .megamenu > li > a .menu-title:hover</selector>
+				<attrs>color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Background Sub Menu</label>
+				<selector>.row-offcanvas .ps-desktop-megamenu .dropdown-menu</selector>
+				<attrs>background-color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Color Title submenu</label>
+				<selector>.row-offcanvas .megamenu .widget .title_block</selector>
+				<attrs>color</attrs>
+			</item>		
+			<item>
+				<type>text</type>
+				<label>Color submenu</label>
+				<selector>.row-offcanvas .pts-megamenu .dropdown-menu</selector>
+				<attrs>color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Color Link submenu</label>
+				<selector>.row-offcanvas .dropdown-menu li a</selector>
+				<attrs>color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Color Link submenu hover</label>
+				<selector>.row-offcanvas .dropdown-menu li a:hover</selector>
+				<attrs>color</attrs>
+			</item>
+		</items>
+
+		<items>
+			<header>breadcumb</header>
+			<match>breadcumb</match>
+				<item>
+					<type>text</type>
+					<label>Background</label>
+					<selector>.ps_breadcumb</selector>
+					<attrs>background-color</attrs>
+				</item> 
+
+				<item>
+					<type>image</type>
+					<label>Background Image</label>
+					<selector>.ps_breadcumb</selector>
+					<attrs>background-image</attrs>
+				</item>
+
+			 	<item>
+					<type>text</type>
+					<label>color</label>
+					<selector>.ps_breadcumb, .ps_breadcumb .breadcrumb li a</selector>
+					<attrs>color</attrs>
+				</item> 
+
+				<item>
+					<type>text</type>
+					<label>Link Color Hover</label>
+					<selector>.ps_breadcumb .breadcrumb li a:hover</selector>
+					<attrs>color</attrs>
+				</item>  
+		</items>
+
+		<items>
+		<header>Footer Top</header>
+			<match>footer-top</match>
+				<item>
+					<type>text</type>
+					<label>Background Color</label>
+					<selector>.row-offcanvas .footer-top</selector>
+					<attrs>background-color</attrs>
+				</item> 
+				<item>
+					<type>text</type>
+					<label>Color Text</label>
+					<selector>.row-offcanvas .footer-top </selector>
+					<attrs>color</attrs>
+				</item> 
+
+				<item>
+					<type>text</type>
+					<label>Color Link</label>
+					<selector>.row-offcanvas .footer-top a </selector>
+					<attrs>color</attrs>
+				</item> 
+				<item>
+					<type>image</type>
+					<label>Background Image</label>
+					<selector>.row-offcanvas .footer-top</selector>
+					<attrs>background-image</attrs>
+				</item>
+		</items>
+		<items>
+		<header>Footer Center</header>
+			<match>footer-center</match>
+				<item>
+					<type>text</type>
+					<label>Background Color</label>
+					<selector>.row-offcanvas .footer-bottom</selector>
+					<attrs>background-color</attrs>
+				</item> 
+				<item>
+					<type>text</type>
+					<label>Color Text</label>
+					<selector>.row-offcanvas .footer-bottom</selector>
+					<attrs>color</attrs>
+				</item> 
+
+				<item>
+					<type>text</type>
+					<label>Color Link</label>
+					<selector>.row-offcanvas .footer-bottom a</selector>
+					<attrs>color</attrs>
+				</item> 
+				
+				<item>
+					<type>text</type>
+					<label>Heading Color</label>
+					<selector>.row-offcanvas .footer-bottom .block .title_block </selector>
+					<attrs>color</attrs>
+				</item> 
+				<item>
+					<type>image</type>
+					<label>Background Image</label>
+					<selector>.row-offcanvas .footer-bottom</selector>
+					<attrs>background-image</attrs>
+				</item>
+		</items>	
+		<items>
+			<header>Powered</header>
+			<match>powered</match>
+			<item>
+				<type>text</type>
+				<label>Background Color</label>
+				<selector>.row-offcanvas .pts-copyright</selector>
+				<attrs>background-color</attrs>
+			</item> 
+			<item>
+				<type>text</type>
+				<label>Color Text</label>
+				<selector>.row-offcanvas .pts-copyright</selector>
+				<attrs>color</attrs>
+			</item> 
+
+		 	<item>
+				<type>text</type>
+				<label>Color Link</label>
+				<selector>.row-offcanvas .pts-copyright .widget-html a</selector>
+				<attrs>color</attrs>
+			</item> 
+			<item>
+				<type>image</type>
+				<label>Background Image</label>
+				<selector>.row-offcanvas .pts-copyright</selector>
+				<attrs>background-image</attrs>
+			</item> 
+
+		</items>
+	</global>
+
+	<elements>
+		<items>
+			<header>Products</header>
+			<match>product</match>
+			<item>
+				<type>text</type>
+				<label>Bg Product</label>
+				<selector>.row-offcanvas .product-miniature</selector>
+				<attrs>background-color</attrs>
+			</item>		
+			<item>
+				<type>text</type>
+				<label>Border</label>
+				<selector>.row-offcanvas .product-miniature</selector>
+				<attrs>border-color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Text Product</label>
+				<selector>.row-offcanvas .product-miniature</selector>
+				<attrs>color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Text Link</label>
+				<selector>.row-offcanvas .product-miniature a:not(.quick-view)</selector>
+				<attrs>color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Text Link Hover</label>
+				<selector>.row-offcanvas .product-miniature a:hover, .grid .product-miniature:hover .product-title a:hover</selector>
+				<attrs>color</attrs>
+			</item>
+			<item>
+				<type>text</type>
+				<label>Color Price</label>
+				<selector>.row-offcanvas .product-miniature .product-price-and-shipping .price </selector>
+				<attrs>color</attrs>
+			</item> 
+			<item>
+				<type>text</type>
+				<label>Color old Price</label>
+				<selector>.row-offcanvas .product-miniature .product-price-and-shipping .regular-price</selector>
+				<attrs>color</attrs>
+			</item>
+		</items>
+		
+
+		<items>
+			<header>Block Default in Sidebar</header>
+			<match>modules</match> 
+				<item>
+					<type>text</type>
+					<label>Background</label>
+					<selector>.row-offcanvas .sidebar .block .block_content </selector>
+					<attrs>background-color</attrs>
+				</item> 
+				<item>
+					<type>text</type>
+					<label>Border content color</label>
+					<selector>.row-offcanvas .sidebar .block .block_content, #search_filters .facet .facet-title, #left-column .block, #right-column .block</selector>
+					<attrs>border-color</attrs>
+				</item>   
+				<item>
+					<type>text</type>
+					<label>Heading Background</label>
+					<selector>.row-offcanvas .sidebar .block .title-sidebar</selector>
+					<attrs>background-color</attrs>
+				</item>
+				<item>
+					<type>text</type>
+					<label>Heading Color</label>
+					<selector>.row-offcanvas .sidebar .block .title-sidebar, .title-sidebar, #search_filters .facet .facet-title</selector>
+					<attrs>color</attrs>
+				</item> 
+				<item>
+					<type>text</type>
+					<label>text-color</label>
+					<selector>.row-offcanvas .sidebar .block .block_content</selector>
+					<attrs>color</attrs>
+				</item>  
+				<item>
+					<type>text</type>
+					<label>Link Color</label>
+					<selector>.row-offcanvas .sidebar .block .block_content .name a, .row-offcanvas .sidebar .block .block_content a, #search_filters .facet .facet-label a</selector>
+					<attrs>color</attrs>
+				</item>
+				<item>
+					<type>text</type>
+					<label>Link Color Hover</label>
+					<selector>.row-offcanvas .sidebar .block .block_content .name a:hover, .row-offcanvas .sidebar .block .block_content a:hover</selector>
+					<attrs>color</attrs>
+				</item>  
+		</items>
+
+		<items>
+			<header>Modules Highlight in Sidebar</header>
+			<match>highlight-modules</match>
+				<item>
+					<type>text</type>
+					<label>Heading Background</label>
+					<selector>.row-offcanvas .sidebar .block.block-highlighted .title_block</selector>
+					<attrs>background-color</attrs>
+				</item> 
+				<item>
+					<type>text</type>
+					<label>Heading Color</label>
+					<selector>.row-offcanvas .sidebar .block.block-highlighted .title_block</selector>
+					<attrs>color</attrs>
+				</item>
+				<item>
+					<type>text</type>
+					<label>Heading Border Color</label>
+					<selector>.row-offcanvas .sidebar .block.block-highlighted .title_block</selector>
+					<attrs>border-color</attrs>
+				</item>  
+				<item>
+					<type>text</type>
+					<label>Content Background</label>
+					<selector>.row-offcanvas .sidebar .block.block-highlighted .block_content</selector>
+					<attrs>background-color</attrs>
+				</item>   
+				<item>
+					<type>text</type>
+					<label>Content border</label>
+					<selector>.row-offcanvas .sidebar .block.block-highlighted .block_content</selector>
+					<attrs>border-color</attrs>
+				</item>  
+				<item>
+					<type>text</type>
+					<label>Link Color</label>
+					<selector>.row-offcanvas .sidebar .block-highlighted .product-block</selector>
+					<attrs>color</attrs>
+				</item>
+				<item>
+					<type>text</type>
+					<label>Link Color</label>
+					<selector>.row-offcanvas .sidebar .block-highlighted .product-block .name a, .row-offcanvas .sidebar .block-highlighted .block a</selector>
+					<attrs>color</attrs>
+				</item>  
+				<item>
+					<type>text</type>
+					<label>Color Price New</label>
+					<selector>.row-offcanvas .sidebar .product-block .price</selector>
+					<attrs>color</attrs>
+				</item> 
+	 		
+		 		<item>
+					<type>text</type>
+					<label>Color Price Old</label>
+					<selector>.row-offcanvas .sidebar .block-highlighted .product-block .price-old</selector>
+					<attrs>color</attrs>
+				</item>
+		</items>
+
+	</elements>
+
+	<typography>
+		<items>
+			<header>Body Typo</header>
+			<match>typo-body</match>
+				<item>
+					<type>fontfamily</type>
+					<label>Font Family</label>
+					<selector>body</selector>
+					<attrs>font-family</attrs>
+				</item> 
+
+			 	<item>
+					<type>fontsize</type>
+					<label>Font-Size</label>
+					<selector>body</selector>
+					<attrs>font-size</attrs>
+					<unit>px</unit>
+				</item> 
+
+				<item>
+					<type>fontsize</type>
+					<label>Light-Height</label>
+					<selector>body</selector>
+					<attrs>line-height</attrs>
+					<unit>px</unit>
+				</item> 
+
+		</items>
+
+		<items>
+			<header>Page Heading Typo</header>
+			<match>page-heading</match>
+			<item>
+				<type>fontfamily</type>
+				<label>Font Family</label>
+				<selector>.block .title_block</selector>
+				<attrs>font-family</attrs>
+			</item> 
+
+		 	<item>
+				<type>fontsize</type>
+				<label>Font-Size</label>
+				<selector>.block .title_block</selector>
+				<attrs>font-size</attrs>
+				<unit>px</unit>
+			</item> 
+
+			<item>
+				<type>fontsize</type>
+				<label>Light-Height</label>
+				<selector>.block .title_block</selector>
+				<attrs>line-height</attrs>
+				<unit>px</unit>
+			</item>  
+			<item>
+				<type>text</type>
+				<label>Border Color</label>
+				<selector>.block .title_block</selector>
+				<attrs>border-color</attrs>
+			</item> 
+		</items>
+
+		<items>
+			<header>Heading Typo</header>
+			<match>typo-heading</match>
+			<item>
+				<type>fontfamily</type>
+				<label>Font Family</label>
+				<selector>h2, h3, h4, h5, h6, h7</selector>
+				<attrs>font-family</attrs>
+			</item> 
+		</items>
+
+		<items>
+			<header>Module Typo</header>
+			<match>typo-modules</match>
+			<item>
+				<type>fontfamily</type>
+				<label>Font Family</label>
+				<selector>.row-offcanvas .sidebar .block .title-sidebar</selector>
+				<attrs>font-family</attrs>
+			</item> 
+			<item>
+				<type>fontsize</type>
+				<label>Font-Size</label>
+				<selector>.row-offcanvas .sidebar .block .title-sidebar</selector>
+				<attrs>font-size</attrs>
+				<unit>px</unit>
+			</item> 
+
+			<item>
+				<type>fontsize</type>
+				<label>Light-Height</label>
+				<selector>.row-offcanvas .sidebar .block .title-sidebar</selector>
+				<attrs>line-height</attrs>
+				<unit>px</unit>
+			</item>
+		</items>
+
+	</typography>
+
+
+</customization>
+	</themeeditor>

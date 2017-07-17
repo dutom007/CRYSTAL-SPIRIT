@@ -1,0 +1,134 @@
+ 
+/* pagebuilder */
+ //carouesl
+ .owl-wrapper { 
+  .owl-item {
+    margin: $grid-gutter-width/2 0;
+  }
+}
+.owl-carousel-play {
+  //margin-left: -$grid-gutter-width/2;
+  //margin-right: -$grid-gutter-width/2;
+  position: relative;
+  .item {
+    padding-left: $grid-gutter-width/2;
+    padding-right: $grid-gutter-width/2;
+  }
+}
+
+//fix demo
+
+[class^=widget-].block {
+    border: 1px solid $base-border-color;
+    .title_block {
+        padding: 10px 20px;
+    }
+    .widget-inner {
+        padding: 20px;
+    }
+}
+
+//widget testimonial
+
+.widget-testimonial {
+  .testimonials-avatar {
+    @include size(100px,100px);
+    display: block;
+    overflow: hidden;
+    img {
+      border-radius: 50%;
+    }
+  }
+}
+
+//countdown
+
+.wrap-countdown {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background: #333;
+  padding: 10px 0;
+  >div {
+    > div {
+      @include rtl-float-left;
+      font-size: 11px;
+      position: relative;
+      line-height: 16px;
+      padding: 0 18px;
+      font-weight: 400;
+      color: #fff;
+      text-transform: uppercase;
+      &:before {
+        position: absolute;
+        content: ":";
+        @include rtl-left(-2px);
+        top: 12px;
+        font-weight: bold;
+        font-size: 18px;
+        font-style: normal;
+      }
+      b {
+        font-weight: normal;
+        display: block;
+        text-align: center;
+        font-weight: 400;
+        font-size: 20px;
+        font-style: normal;
+        margin-bottom: 5px;
+      }
+      &:first-child {
+        &:before {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+//flashsale
+
+.pts-flashsale {
+  display: block;
+  float: right;
+  >ul {
+    > li {
+      float: left;
+      font-size: 11px;
+      position: relative;
+      line-height: 16px;
+      padding: 0 18px;
+      font-weight: 400;
+      color: #333;
+      display: block;
+      text-transform: uppercase;
+      &:before {
+        position: absolute;
+        content: ":";
+        @include rtl-left(-2px);
+        top: 12px;
+        font-weight: bold;
+        font-size: 18px;
+        font-style: normal;
+      }
+      b {
+        font-weight: normal;
+        display: block;
+        text-align: center;
+        font-weight: 400;
+        font-size: 20px;
+        font-style: normal;
+        margin-bottom: 5px;
+      }
+      &:first-child {
+        &:before {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+/* end pagebuilder */

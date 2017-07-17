@@ -1,0 +1,103 @@
+@import "theme_variables";
+.header-top {
+  .search-widget {
+    form {
+      input[type="text"] {
+        min-width: inherit;
+        width: 100%;
+      }
+    }
+  }
+}
+#checkout {
+  #search_widget {
+    //display: none; /* Not ideal solution by allows to reuse same hooks/templates */
+  }
+}
+
+#pagenotfound {
+  .page-content {
+    #search_widget {
+      width: 100%;
+    }
+  }
+}
+
+/*** Responsive part ***/
+#search_widget {
+  .search-widget{
+    position: absolute;
+    left: 0;
+    z-index: 999;
+    width: 100%;
+    margin: 0;
+    height: 0;
+    top: -120px;
+    @include opacity(0);
+    padding: rem(15px);
+    background: $white;
+    visibility: hidden;
+    height: rem(87px);
+    border-bottom: 1px solid $base-border-color;
+    box-shadow: 0 0 3px #ccc;
+    @include transition(all 0.3s ease-in-out 0s);
+    form {
+      position: relative;
+      display: block;
+      height: 100%;
+      border: $main_border;
+      padding: 0 rem(20px);
+      overflow: hidden;
+    }
+    &.open{
+      
+      @include opacity(1);
+      top: 100%;
+      visibility: visible;
+      .ps_search {
+        height: rem(70px);
+        line-height: rem(55px);
+        font-size: rem(23px);
+        font-family: $font-custom;
+        color: $theme-color-secondary;
+        width: 100%;
+        border: 0;     
+        padding: 0;  
+        margin-top: -5px;
+        &:focus{
+          border: none !important;
+          outline: none !important;
+        }
+      }
+    }
+    .button-close{
+      cursor: pointer;
+      position: absolute;
+      @include rtl-right(0);
+      line-height: rem(55px);
+      @include size(rem(40px),rem(55px));
+      text-align: center;
+      top:0;
+      color: #000;
+      @include rtl-border-left(1px solid $base-border-color);
+    }
+    .btnsearch {
+      position: absolute;
+      @include rtl-right(rem(50px));
+      top: 0;
+      border: 0;
+      @include size(rem(30px),rem(55px));
+      cursor: pointer;
+      background-color: transparent;
+      .material-icons {
+        font-size: 24px;
+      }
+      &:hover{
+        color: $theme-color;
+      }
+    }
+  }
+  &.open{
+    border: 1px solid $border-color;
+  }
+} 

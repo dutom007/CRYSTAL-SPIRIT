@@ -1,0 +1,317 @@
+/**
+ * Web Application Prefix Apply For Making Owner Styles
+ */
+/**
+ *   Blocks Layout Selectors 
+ */
+/**
+ * Product Item Selectors
+ */
+/***********************************************************************/
+/* RIGHT TO LEFT */
+/* BACKGROUND GRADIENT */
+/* BACKGROUND RADIAL */
+/* BACKGROUND SIZE */
+/* BORDER RADIUS */
+/* DOUBLE BORDERS */
+/* TRIPLE BORDERS */
+/* FONT FACE */
+/* OPACITY */
+/* TEXT SHADOW */
+/**
+* Transition-timing-function property@mixin 
+*/
+/*background RGBA
+============================================*/
+/****/
+/**parallax**/
+/**absolute**/
+/*  
+ * LAYOUT VARIABLES 
+ */
+/** CHECKOUT BY STEP */
+/* --- SCSS For Accordion --- */
+/* --- SCSS For Breadcrumb --- */
+/* --- SCSS For Buttons --- */
+/* --- SCSS For Call-to-action --- */
+/* --- SCSS For Content-slider --- */
+/*  */
+/* carousel-controls-v1 */
+/* carousel-controls-v2 */
+/* carousel-controls-v3 */
+/* Navigation Styles */
+/* carousel-indicators-v1 */
+/* carousel-indicators-v2 */
+/* carousel-indicators-v3 */
+/* carousel-indicators-v4 */
+/* carousel-indicators-v5 */
+/* carousel-indicators-v6 */
+/* --- SCSS For Counters --- */
+/* --- SCSS For Heading --- */
+/* --- SCSS For Icon-box --- */
+/* --- SCSS For Interactive-banner --- */
+/* --- SCSS For Latest-posts --- */
+/* latest posts */
+/* --- SCSS For List --- */
+/* variables for list */
+/* variables for list light */
+/* --- SCSS For Message --- */
+/* --- SCSS For Newsletter --- */
+/* --- SCSS For Piechart --- */
+/* --- SCSS For Pricing --- */
+/* --- SCSS For Process-steps --- */
+/* process-steps */
+/* --- SCSS For Service --- */
+/* variables for tab style1 using as base of tab */
+/* --- SCSS For Style-icon --- */
+/* Variables icons default */
+/* Variables icons bodered */
+/* Variables icons darker */
+/* Variables icons light */
+/* Variables icons plain */
+/* Variables icons for light style */
+/* Variables icons outline */
+/* Variables icons inverse */
+/* --- SCSS For Table --- */
+/* --- SCSS For Tabs --- */
+/* variables for tab style1 using as base of tab */
+/* tab style version 4 */
+/* tab style version 5 */
+/* tab style version 6 */
+/* --- SCSS For Testimonials --- */
+/* testimonials default */
+/* testimonials-v1 */
+/* testimonials light */
+/* --- SCSS For Typography --- */
+/* panel */
+.cart-grid {
+  margin-bottom: 5.38462rem;
+}
+
+.cart-items {
+  margin-bottom: 0;
+}
+
+.cart-item {
+  padding: 1.23077rem 0;
+}
+
+.cart-summary-line {
+  clear: both;
+}
+.cart-summary-line .label {
+  padding-left: 0;
+  font-weight: normal;
+  white-space: inherit;
+}
+.cart-summary-line .value {
+  color: #434a54;
+}
+.cart-summary-line.cart-summary-subtotals .label,
+.cart-summary-line.cart-summary-subtotals .value {
+  font-weight: normal;
+}
+
+/** CART BODY **/
+.cart-grid-body {
+  margin-bottom: 0.92308rem;
+}
+.cart-grid-body a.label:hover {
+  color: #293f85;
+}
+.cart-grid-body .card-block {
+  padding: 1.23077rem;
+}
+.cart-grid-body .card-block h1 {
+  margin-bottom: 0;
+  color: #00cb8f;
+}
+.cart-grid-body hr {
+  margin: 0;
+}
+.cart-grid-body .cart-overview {
+  padding: 1.23077rem;
+}
+
+/** CART RIGHT **/
+.cart-grid-right hr {
+  margin: 0;
+}
+.cart-grid-right .promo-discounts {
+  margin-bottom: 0;
+}
+.cart-grid-right .promo-discounts .cart-summary-line .label {
+  color: #878787;
+}
+.cart-grid-right .promo-discounts .cart-summary-line .label .code {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.block-promo .promo-code {
+  padding: 1.60rem;
+  background: #ebebeb;
+}
+.block-promo .promo-code .alert-danger {
+  position: relative;
+  margin-top: 1.53846rem;
+  background: #ff4c4c;
+  color: white;
+  display: none;
+}
+.block-promo .promo-code .alert-danger::after {
+  bottom: 100%;
+  left: 10%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-bottom-color: #ff4c4c;
+  border-width: 10px;
+  margin-left: -10px;
+}
+.block-promo .promo-input {
+  color: #434a54;
+  border: #acaaa6 1px solid;
+  height: 3.07692rem;
+  text-indent: 0.76923rem;
+  width: 60%;
+}
+.block-promo .promo-input + button {
+  margin-top: -4px;
+  text-transform: capitalize;
+}
+.block-promo .cart-summary-line .label,
+.block-promo .promo-name {
+  color: #ff9a52;
+  font-weight: 600;
+}
+.block-promo .cart-summary-line .label a,
+.block-promo .promo-name a {
+  font-weight: normal;
+  color: #434a54;
+  display: inline-block;
+}
+.block-promo .promo-code-button {
+  padding-left: 1.53846rem;
+  margin-bottom: 1.53846rem;
+  display: inline-block;
+}
+.block-promo.promo-highlighted {
+  padding: 1.53846rem;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+/** CONTENT LEFT **/
+.product-line-grid-left img {
+  max-width: 100%;
+}
+
+/** CONTENT BODY **/
+.product-line-grid-body > .product-line-info > .label {
+  padding: 0;
+  line-height: inherit;
+  text-align: left;
+  white-space: inherit;
+}
+.product-line-grid-body > .product-line-info > .out-of-stock {
+  color: red;
+}
+.product-line-grid-body > .product-line-info > .available {
+  color: #4cbb6c;
+}
+.product-line-grid-body > .product-line-info > .unit-price-cart {
+  padding-left: 0.3125rem;
+  font-size: 0.875rem;
+  color: #878787;
+}
+
+/** CONTENT LEFT **/
+.product-line-grid-right .bootstrap-touchspin {
+  width: 5.23077rem;
+  box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.15);
+}
+.product-line-grid-right .bootstrap-touchspin > .form-control,
+.product-line-grid-right .bootstrap-touchspin > .input-group {
+  color: #434a54;
+  background-color: white;
+  height: 2.6rem;
+  padding: 0.175rem 0.5rem;
+  width: 3.69231rem;
+}
+.product-line-grid-right .bootstrap-touchspin > .input-group-btn-vertical {
+  width: auto;
+}
+.product-line-grid-right .cart-line-product-actions,
+.product-line-grid-right .product-price {
+  color: #434a54;
+  line-height: 36px;
+}
+.product-line-grid-right .cart-line-product-actions .remove-from-cart,
+.product-line-grid-right .product-price .remove-from-cart {
+  color: #434a54;
+  display: inline-block;
+  margin-top: 0.38462rem;
+}
+
+/*** Responsive part ***/
+@media (max-width: 767px) {
+  .product-line-grid-body {
+    margin-bottom: 1.23077rem;
+  }
+}
+@media (max-width: 575px) {
+  .cart-items {
+    padding: 1.23077rem 0;
+  }
+
+  .cart-item {
+    border-bottom: 1px solid #ebebeb;
+  }
+  .cart-item:last-child {
+    border-bottom: 0;
+  }
+
+  .cart-grid-body .cart-overview {
+    padding: 0;
+  }
+  .cart-grid-body .no-items {
+    padding: 1.23077rem;
+    display: inline-block;
+  }
+
+  .product-line-grid-left {
+    padding-right: 0 !important;
+  }
+}
+@media (max-width: 360px) {
+  .product-line-grid-right .qty {
+    width: 100%;
+  }
+  .product-line-grid-right .price {
+    width: 100%;
+  }
+}
+.h1.card-title {
+  color: #00cb8f;
+}
+
+.card-block span.value {
+  float: right;
+  color: #00cb8f;
+}
+.rtl .card-block span.value {
+  float: left;
+}
+
+.cart-grid-body .btn-primary {
+  float: left;
+  margin-top: 25px;
+  color: #fff !important;
+}
+.rtl .cart-grid-body .btn-primary {
+  float: right;
+}

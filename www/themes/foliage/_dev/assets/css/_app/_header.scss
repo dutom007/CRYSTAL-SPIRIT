@@ -1,0 +1,198 @@
+/**
+ * HEADER CSS STYLES
+ */
+ /* default */
+
+  #header{
+    &.headerFixed{
+        @include media-breakpoint-up(md){
+            position: fixed;
+            left: 0;
+            right: 0;
+            top: 0;
+            z-index: 99;
+            .mini-navbar{
+                @include box-shadow-com(0 4px 5px 0 rgba(0, 0, 0, 0.1));
+            }
+        }
+        
+    }
+ }
+#header {
+    background: $header-bg;
+    .header-nav {
+        @include container-layout-variant( $topbar-color, $topbar-bg, $topbar-link-color, $topbar-link-hover-color ); 
+        font-size: $topbar-font-size;
+        position: relative;
+        .dropdown-menu li {
+            a {
+                color: #222;
+                 &:hover {
+                    color: $theme-color;
+                }
+            }
+            &.selected, &.current {
+                a {
+                    &,
+                    &:hover {
+                        color: $theme-color;
+                    }
+                }
+            }          
+        }
+        .header-mobile{
+            > div {
+                padding: rem(10px) rem(8px);
+                &.top-logo{
+                    padding: 0;
+                }
+            }
+        }
+    }
+    .header-top {
+        > .container{
+            position: relative;
+        }
+    }
+    .header-right{
+        @include rtl-float-right;
+        color: $theme-color-secondary;
+        padding: 10px 0;
+        font-size: rem(13px);
+        @include rtl-text-align-right;
+        margin-top: rem(20px);
+        .material-icons{
+            font-size: rem(17px);
+            cursor: pointer;
+        }
+        > div {
+            display: inline-block;
+            @include media-breakpoint-up(lg){
+                @include rtl-margin(0, rem(12px), 0, 0);
+            }
+            &:last-child{
+                margin: 0;
+            }
+        }
+        
+    }
+
+    //menu
+    .ps-desktop-megamenu { 
+        text-align: center;
+        //position: relative;
+        z-index: 10;
+        #cavas_menu {
+            display: inline-block;
+            position: static;
+            padding-top: 11px;
+        }
+    }
+    .dropdown .expand-more {
+        color: inherit;
+    }
+    //customersignin
+    .user-info {
+        ul { 
+            margin: 10px 0;
+            li {
+                display: inline-block;
+                border-right: 1px solid #444444;
+                padding: 0 15px;
+                vertical-align: middle;
+                &:last-child {
+                    border-right: 0;
+                }
+            }
+        }
+        .dropdown-menu{
+            @include rtl-right(0);
+            left: auto;
+            padding: rem(15px);
+        }
+    }
+    /*Serach*/
+    
+    .search-focus {
+        cursor: pointer;
+        @include media-breakpoint-up(xl){
+            @include rtl-margin-right(rem(15px));
+        }
+    }
+    
+    #contact-link,
+    .user-info {
+        //margin: 10px 0;
+        a{
+            color: $theme-color-secondary;
+            &:hover{
+                color: $theme-color;
+            }
+        }
+    }
+}
+.position-static{
+    position: static !important;
+}
+.setting-btn{
+    .label{
+        padding: 3px 1.5rem;
+        border-bottom: 1px dotted #ccc;
+        display: inline-block;
+        margin-bottom: rem(7px);
+    }
+}
+.perfect-center{
+    text-align: center !important;
+}
+#contact-link{
+    @include media-breakpoint-up(lg){
+        padding: 10px 0;
+        margin-top: 20px;
+    }
+    font-size: 14px;
+    span{
+        color: $theme-color;
+    }
+}
+ /* header 2 */
+ #header{
+     .header1{
+        @include media-breakpoint-down(sm){
+            margin-bottom: 20px;
+        }
+        .header-nav {
+            background-color: #fff;
+            color: inherit;
+            .nav-top{
+                position: relative;
+            }
+        }
+        &.mini-navbar{
+            .ps-desktop-megamenu{
+                border: none;
+                #cavas_menu{
+                    padding: 0;
+                }
+            }
+            .logo-store{
+                padding: 15px 0;
+            }
+        }
+        .ps-desktop-megamenu{
+            border-top: $main_border;
+            display: inline-block;
+            width: 100%;
+            .megamenu{
+                > li{
+                    float: none;
+                    display: inline-block;
+                }
+            }
+            #cavas_menu{
+                padding: 11px 0;
+                @include transition(0.5s all ease-out 0s);
+            }
+        }
+     }
+ }
